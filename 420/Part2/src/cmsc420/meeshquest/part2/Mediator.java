@@ -6,12 +6,8 @@ import org.w3c.dom.Element;
 import cmsc420.drawing.CanvasPlus;
 
 import java.awt.Color;
-import java.awt.geom.Arc2D;
 import java.io.IOException;
-import java.text.DecimalFormat;
-import java.util.EmptyStackException;
 import java.util.Map;
-import java.util.Stack;
 import java.util.TreeSet;
 
 public class Mediator {
@@ -241,17 +237,8 @@ public class Mediator {
     	//tis time to Dijkstra
     	Dijkstra dijkstra = new Dijkstra(start, end, dictionary);
     	dijkstra.findShortestPath();
-    	
-    	Stack<City> sp = dijkstra.shortestPath();
-    	if (sp == null) {
-    		throw new Meeshception("noPathExists");
-    	}
-    	
-    	Element path = results.createElement("path");
-    	double length = 0;
-    	int hops = 0;
+
     	CanvasPlus canvas = null;
-    	
     	if (saveMap) {
     		canvas = pm3.draw();
     		canvas.removePoint(start.getName(), start.x, start.y, Color.BLACK);
@@ -259,56 +246,17 @@ public class Mediator {
     		canvas.removePoint(end.getName(), end.x, end.y, Color.BLACK);
     		canvas.addPoint("End", end.x, end.y, Color.RED);
     	}
-    	
-    	if (sp.size() == 1) {
-    		path.setAttribute("length", "0.000");
-    		path.setAttribute("hops", "0");
-    		if (saveMap) {
-    			drawSaveDisposeCanvas(values[2], canvas);
-    		}
-    		return path;
+
+    	Element sp = dijkstra.shortestPath(results, canvas);
+    	if (sp == null) {
+    		throw new Meeshception("noPathExists");
     	}
     	
-    	City fst = sp.pop(), snd = sp.pop(), trd = null;
-    	
-    	while (true) {
-    		path.appendChild(XMLBuilder.roadNode(results, fst, snd));
-    		if (saveMap) {
-    			canvas.addLine(start.x, start.y, end.x, end.y, Color.BLUE);
-    		}
-    		++hops;
-    		length += Utilities.distanceBetweenGeos(fst, snd);
-    		try {
-    			trd = sp.pop();
-    		} catch (EmptyStackException e) {
-    			DecimalFormat df = new DecimalFormat("0.000");
-    			path.setAttribute("length", df.format(length));
-    			path.setAttribute("hops", String.valueOf(hops));
-    			if (saveMap) {
-    				drawSaveDisposeCanvas(values[2], canvas);
-    			}
-    			return path;
-    		}
-    		
-    		path.appendChild(directionNode(results, fst, snd, trd));
-    		
-    		fst = snd;
-    		snd = trd;
+    	if (saveMap) {
+    		drawSaveDisposeCanvas(values[2], canvas);
     	}
+    	return sp;
     }
     
-    private static Element directionNode(Document results, City fst, City snd, City trd) {
-    	Element direction;
-    	Arc2D.Double arc = new Arc2D.Double();
-    	arc.setArcByTangent(fst, snd, trd, 1);
-    	double degree = arc.getAngleExtent();
-    	if (degree < -45) {
-    		direction = results.createElement("left");
-    	} else if (degree >= 45) {
-    		direction = results.createElement("right");
-    	} else {
-    		direction = results.createElement("straight");
-    	}
-    	return direction;
-    }
+    
 }

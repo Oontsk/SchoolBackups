@@ -14,6 +14,7 @@ public class Road extends Line2D.Float implements Geometry2D {
 	
 	public Road(City start, City end) {
 		super(start, end);
+		
 		if (start.getName().compareTo(end.getName()) < 0) {
 			this.start = start;
 			this.end = end;
