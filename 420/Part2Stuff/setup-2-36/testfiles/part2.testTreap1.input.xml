@@ -1,0 +1,45 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+	pmOrder="3" spatialWidth="1024" spatialHeight="1024">
+
+ <createCity id="1"  name="Baltimore" y="39" x="76" radius="30" color="black"/>
+ <printTreap id="2"  />
+ <createCity id="3"  name="Chicago" x="81" y="47" radius="35"  color="black"/>
+ <printTreap id="4"  />
+ <createCity id="5"  name="Atlanta" x="84" y="33" radius="40"  color="black"/>
+ <printTreap id="6"  />
+ <createCity id="7"  name="Los_Angeles" x="118" y="33" radius="80"  color="black"/>
+ <printTreap id="8"  />
+ <createCity id="9"  name="Miami" x="80" y="25" radius="30"  color="black"/>
+ <printTreap id="10"  />
+ <createCity id="11"  name="Boston" x="71" y="42" radius="50"  color="black"/>
+ <printTreap id="12"  />
+ <createCity id="13"  name="Paris" x="2" y="48" radius="10" color="black"/>
+ <printTreap id="14"  />
+ <createCity id="15"  name="Berlin" x="13" y="52" radius="10" color="black"/>
+ <printTreap id="16"  />
+ <createCity id="17"  name="Madrid" x="3" y="40" radius="10" color="black"/>
+ <printTreap id="18"  />
+ <createCity id="19"  name="Barcelona" x="2" y="41" radius="10" color="black"/>
+ <printTreap id="20"  />
+ <createCity id="21"  name="Rome" x="12" y="41" radius="10" color="black"/>
+ <printTreap id="22"  />
+ <createCity id="23"  name="Athens" x="23" y="37" radius="10" color="black"/>
+ <printTreap id="24"  />
+ <createCity id="25"  name="Instanbul" x="28" y="41" radius="10" color="black"/>
+ <printTreap id="26"  />
+ <createCity id="27"  name="Stockholm" x="18" y="59" radius="10" color="black"/>
+ <printTreap id="28"  />
+ <createCity id="29"  name="K" x="19" y="59" radius="10" color="black"/>
+ <printTreap id="30"  />
+ <createCity id="31"  name="Z" x="20" y="59" radius="10" color="black"/>
+ <printTreap id="32"  />
+ <createCity id="33"  name="O" x="21" y="59" radius="10" color="black"/>
+ <printTreap id="34"  />
+ <clearAll id="35"  />
+ <printTreap id="36"  />
+
+
+</commands>
+

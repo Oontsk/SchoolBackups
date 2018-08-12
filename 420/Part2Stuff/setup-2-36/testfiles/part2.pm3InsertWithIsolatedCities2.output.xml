@@ -1,0 +1,3137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command id="1" name="createCity"/>
+    <parameters>
+      <name value="C1"/>
+      <x value="136"/>
+      <y value="2752"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="2" name="createCity"/>
+    <parameters>
+      <name value="C2"/>
+      <x value="153"/>
+      <y value="4458"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="3" name="createCity"/>
+    <parameters>
+      <name value="C3"/>
+      <x value="259"/>
+      <y value="1922"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="4" name="createCity"/>
+    <parameters>
+      <name value="C4"/>
+      <x value="343"/>
+      <y value="4913"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="5" name="createCity"/>
+    <parameters>
+      <name value="C5"/>
+      <x value="397"/>
+      <y value="6016"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="6" name="createCity"/>
+    <parameters>
+      <name value="C6"/>
+      <x value="453"/>
+      <y value="1698"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="7" name="createCity"/>
+    <parameters>
+      <name value="C7"/>
+      <x value="594"/>
+      <y value="2496"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="8" name="createCity"/>
+    <parameters>
+      <name value="C8"/>
+      <x value="746"/>
+      <y value="2500"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="9" name="createCity"/>
+    <parameters>
+      <name value="C9"/>
+      <x value="830"/>
+      <y value="7099"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="10" name="createCity"/>
+    <parameters>
+      <name value="C10"/>
+      <x value="886"/>
+      <y value="1174"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="11" name="createCity"/>
+    <parameters>
+      <name value="C11"/>
+      <x value="903"/>
+      <y value="3683"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="12" name="createCity"/>
+    <parameters>
+      <name value="C12"/>
+      <x value="1052"/>
+      <y value="7050"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="13" name="createCity"/>
+    <parameters>
+      <name value="C13"/>
+      <x value="1108"/>
+      <y value="7230"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="14" name="createCity"/>
+    <parameters>
+      <name value="C14"/>
+      <x value="1154"/>
+      <y value="8098"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="15" name="createCity"/>
+    <parameters>
+      <name value="C15"/>
+      <x value="1234"/>
+      <y value="7108"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="16" name="createCity"/>
+    <parameters>
+      <name value="C16"/>
+      <x value="1362"/>
+      <y value="7217"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="17" name="createCity"/>
+    <parameters>
+      <name value="C17"/>
+      <x value="1373"/>
+      <y value="4872"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="18" name="createCity"/>
+    <parameters>
+      <name value="C18"/>
+      <x value="1390"/>
+      <y value="2870"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="19" name="createCity"/>
+    <parameters>
+      <name value="C19"/>
+      <x value="1514"/>
+      <y value="2647"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="20" name="createCity"/>
+    <parameters>
+      <name value="C20"/>
+      <x value="1653"/>
+      <y value="3884"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="21" name="createCity"/>
+    <parameters>
+      <name value="C21"/>
+      <x value="1773"/>
+      <y value="6277"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="22" name="createCity"/>
+    <parameters>
+      <name value="C22"/>
+      <x value="1872"/>
+      <y value="4085"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="23" name="createCity"/>
+    <parameters>
+      <name value="C23"/>
+      <x value="1950"/>
+      <y value="2309"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="24" name="createCity"/>
+    <parameters>
+      <name value="C24"/>
+      <x value="2030"/>
+      <y value="4183"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="25" name="createCity"/>
+    <parameters>
+      <name value="C25"/>
+      <x value="2055"/>
+      <y value="6205"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="26" name="createCity"/>
+    <parameters>
+      <name value="C26"/>
+      <x value="2139"/>
+      <y value="3875"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="27" name="createCity"/>
+    <parameters>
+      <name value="C27"/>
+      <x value="2250"/>
+      <y value="706"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="28" name="createCity"/>
+    <parameters>
+      <name value="C28"/>
+      <x value="2326"/>
+      <y value="7172"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="29" name="createCity"/>
+    <parameters>
+      <name value="C29"/>
+      <x value="2473"/>
+      <y value="4056"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="30" name="createCity"/>
+    <parameters>
+      <name value="C30"/>
+      <x value="2503"/>
+      <y value="4521"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="31" name="createCity"/>
+    <parameters>
+      <name value="C31"/>
+      <x value="2566"/>
+      <y value="7411"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="32" name="createCity"/>
+    <parameters>
+      <name value="C32"/>
+      <x value="2604"/>
+      <y value="6129"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="33" name="createCity"/>
+    <parameters>
+      <name value="C33"/>
+      <x value="2674"/>
+      <y value="3820"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="34" name="createCity"/>
+    <parameters>
+      <name value="C34"/>
+      <x value="2765"/>
+      <y value="6065"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="35" name="createCity"/>
+    <parameters>
+      <name value="C35"/>
+      <x value="2891"/>
+      <y value="3659"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="36" name="createCity"/>
+    <parameters>
+      <name value="C36"/>
+      <x value="2935"/>
+      <y value="6640"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="37" name="createCity"/>
+    <parameters>
+      <name value="C37"/>
+      <x value="3047"/>
+      <y value="3741"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="38" name="createCity"/>
+    <parameters>
+      <name value="C38"/>
+      <x value="3067"/>
+      <y value="1430"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="39" name="createCity"/>
+    <parameters>
+      <name value="C39"/>
+      <x value="3221"/>
+      <y value="3748"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="40" name="createCity"/>
+    <parameters>
+      <name value="C40"/>
+      <x value="3367"/>
+      <y value="1351"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="41" name="createCity"/>
+    <parameters>
+      <name value="C41"/>
+      <x value="3473"/>
+      <y value="397"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="42" name="createCity"/>
+    <parameters>
+      <name value="C42"/>
+      <x value="3507"/>
+      <y value="959"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="43" name="createCity"/>
+    <parameters>
+      <name value="C43"/>
+      <x value="3524"/>
+      <y value="6820"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="44" name="createCity"/>
+    <parameters>
+      <name value="C44"/>
+      <x value="3560"/>
+      <y value="5403"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="45" name="createCity"/>
+    <parameters>
+      <name value="C45"/>
+      <x value="3661"/>
+      <y value="3883"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="46" name="createCity"/>
+    <parameters>
+      <name value="C46"/>
+      <x value="3761"/>
+      <y value="4296"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="47" name="createCity"/>
+    <parameters>
+      <name value="C47"/>
+      <x value="3799"/>
+      <y value="6336"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="48" name="createCity"/>
+    <parameters>
+      <name value="C48"/>
+      <x value="3885"/>
+      <y value="2187"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="49" name="createCity"/>
+    <parameters>
+      <name value="C49"/>
+      <x value="4028"/>
+      <y value="2302"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="50" name="createCity"/>
+    <parameters>
+      <name value="C50"/>
+      <x value="4112"/>
+      <y value="8190"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="51" name="createCity"/>
+    <parameters>
+      <name value="C51"/>
+      <x value="4205"/>
+      <y value="6503"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="52" name="createCity"/>
+    <parameters>
+      <name value="C52"/>
+      <x value="4244"/>
+      <y value="1114"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="53" name="createCity"/>
+    <parameters>
+      <name value="C53"/>
+      <x value="4259"/>
+      <y value="3326"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="54" name="createCity"/>
+    <parameters>
+      <name value="C54"/>
+      <x value="4345"/>
+      <y value="2618"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="55" name="createCity"/>
+    <parameters>
+      <name value="C55"/>
+      <x value="4430"/>
+      <y value="4378"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="56" name="createCity"/>
+    <parameters>
+      <name value="C56"/>
+      <x value="4513"/>
+      <y value="7756"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="57" name="createCity"/>
+    <parameters>
+      <name value="C57"/>
+      <x value="4636"/>
+      <y value="5552"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="58" name="createCity"/>
+    <parameters>
+      <name value="C58"/>
+      <x value="4658"/>
+      <y value="5030"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="59" name="createCity"/>
+    <parameters>
+      <name value="C59"/>
+      <x value="4743"/>
+      <y value="2348"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="60" name="createCity"/>
+    <parameters>
+      <name value="C60"/>
+      <x value="4887"/>
+      <y value="1985"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="61" name="createCity"/>
+    <parameters>
+      <name value="C61"/>
+      <x value="4902"/>
+      <y value="3878"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="62" name="createCity"/>
+    <parameters>
+      <name value="C62"/>
+      <x value="4993"/>
+      <y value="5894"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="63" name="createCity"/>
+    <parameters>
+      <name value="C63"/>
+      <x value="5013"/>
+      <y value="6927"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="64" name="createCity"/>
+    <parameters>
+      <name value="C64"/>
+      <x value="5069"/>
+      <y value="3882"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="65" name="createCity"/>
+    <parameters>
+      <name value="C65"/>
+      <x value="5121"/>
+      <y value="1957"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="66" name="createCity"/>
+    <parameters>
+      <name value="C66"/>
+      <x value="5240"/>
+      <y value="1451"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="67" name="createCity"/>
+    <parameters>
+      <name value="C67"/>
+      <x value="5377"/>
+      <y value="6648"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="68" name="createCity"/>
+    <parameters>
+      <name value="C68"/>
+      <x value="5450"/>
+      <y value="4989"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="69" name="createCity"/>
+    <parameters>
+      <name value="C69"/>
+      <x value="5582"/>
+      <y value="6942"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="70" name="createCity"/>
+    <parameters>
+      <name value="C70"/>
+      <x value="5712"/>
+      <y value="6954"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="71" name="createCity"/>
+    <parameters>
+      <name value="C71"/>
+      <x value="5756"/>
+      <y value="6091"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="72" name="createCity"/>
+    <parameters>
+      <name value="C72"/>
+      <x value="5787"/>
+      <y value="2273"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="73" name="createCity"/>
+    <parameters>
+      <name value="C73"/>
+      <x value="5808"/>
+      <y value="2653"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="74" name="createCity"/>
+    <parameters>
+      <name value="C74"/>
+      <x value="5908"/>
+      <y value="1179"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="75" name="createCity"/>
+    <parameters>
+      <name value="C75"/>
+      <x value="6026"/>
+      <y value="5160"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="76" name="createCity"/>
+    <parameters>
+      <name value="C76"/>
+      <x value="6066"/>
+      <y value="4897"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="77" name="createCity"/>
+    <parameters>
+      <name value="C77"/>
+      <x value="6109"/>
+      <y value="2330"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="78" name="createCity"/>
+    <parameters>
+      <name value="C78"/>
+      <x value="6245"/>
+      <y value="3330"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="79" name="createCity"/>
+    <parameters>
+      <name value="C79"/>
+      <x value="6384"/>
+      <y value="8094"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="80" name="createCity"/>
+    <parameters>
+      <name value="C80"/>
+      <x value="6444"/>
+      <y value="219"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="81" name="createCity"/>
+    <parameters>
+      <name value="C81"/>
+      <x value="6515"/>
+      <y value="4571"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="82" name="createCity"/>
+    <parameters>
+      <name value="C82"/>
+      <x value="6575"/>
+      <y value="827"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="83" name="createCity"/>
+    <parameters>
+      <name value="C83"/>
+      <x value="6620"/>
+      <y value="4333"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="84" name="createCity"/>
+    <parameters>
+      <name value="C84"/>
+      <x value="6666"/>
+      <y value="6518"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="85" name="createCity"/>
+    <parameters>
+      <name value="C85"/>
+      <x value="6715"/>
+      <y value="6910"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="86" name="createCity"/>
+    <parameters>
+      <name value="C86"/>
+      <x value="6788"/>
+      <y value="404"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="87" name="createCity"/>
+    <parameters>
+      <name value="C87"/>
+      <x value="6945"/>
+      <y value="5997"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="88" name="createCity"/>
+    <parameters>
+      <name value="C88"/>
+      <x value="7084"/>
+      <y value="6228"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="89" name="createCity"/>
+    <parameters>
+      <name value="C89"/>
+      <x value="7222"/>
+      <y value="7628"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="90" name="createCity"/>
+    <parameters>
+      <name value="C90"/>
+      <x value="7271"/>
+      <y value="1033"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="91" name="createCity"/>
+    <parameters>
+      <name value="C91"/>
+      <x value="7326"/>
+      <y value="7048"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="92" name="createCity"/>
+    <parameters>
+      <name value="C92"/>
+      <x value="7407"/>
+      <y value="6399"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="93" name="createCity"/>
+    <parameters>
+      <name value="C93"/>
+      <x value="7464"/>
+      <y value="7951"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="94" name="createCity"/>
+    <parameters>
+      <name value="C94"/>
+      <x value="7607"/>
+      <y value="4051"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="95" name="createCity"/>
+    <parameters>
+      <name value="C95"/>
+      <x value="7751"/>
+      <y value="7546"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="96" name="createCity"/>
+    <parameters>
+      <name value="C96"/>
+      <x value="7780"/>
+      <y value="572"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="97" name="createCity"/>
+    <parameters>
+      <name value="C97"/>
+      <x value="7871"/>
+      <y value="4112"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="98" name="createCity"/>
+    <parameters>
+      <name value="C98"/>
+      <x value="7915"/>
+      <y value="5579"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="99" name="createCity"/>
+    <parameters>
+      <name value="C99"/>
+      <x value="8012"/>
+      <y value="6744"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="100" name="createCity"/>
+    <parameters>
+      <name value="C100"/>
+      <x value="8161"/>
+      <y value="2381"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="1001" name="createCity"/>
+    <parameters>
+      <name value="O1"/>
+      <x value="8192"/>
+      <y value="8192"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="1002" name="createCity"/>
+    <parameters>
+      <name value="O2"/>
+      <x value="8193"/>
+      <y value="8192"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="101" name="mapCity"/>
+    <parameters>
+      <name value="C3"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="102" name="mapCity"/>
+    <parameters>
+      <name value="C7"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="103" name="mapCity"/>
+    <parameters>
+      <name value="C9"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="104" name="mapCity"/>
+    <parameters>
+      <name value="C14"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="105" name="mapCity"/>
+    <parameters>
+      <name value="C16"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="106" name="mapCity"/>
+    <parameters>
+      <name value="C18"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="107" name="mapCity"/>
+    <parameters>
+      <name value="C19"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="108" name="mapCity"/>
+    <parameters>
+      <name value="C24"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="109" name="mapCity"/>
+    <parameters>
+      <name value="C30"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="110" name="mapCity"/>
+    <parameters>
+      <name value="C36"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="111" name="mapCity"/>
+    <parameters>
+      <name value="C37"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="112" name="mapCity"/>
+    <parameters>
+      <name value="C38"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="113" name="mapCity"/>
+    <parameters>
+      <name value="C39"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="114" name="mapCity"/>
+    <parameters>
+      <name value="C41"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="115" name="mapCity"/>
+    <parameters>
+      <name value="C44"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="116" name="mapCity"/>
+    <parameters>
+      <name value="C46"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="117" name="mapCity"/>
+    <parameters>
+      <name value="C47"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="118" name="mapCity"/>
+    <parameters>
+      <name value="C48"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="119" name="mapCity"/>
+    <parameters>
+      <name value="C51"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="120" name="mapCity"/>
+    <parameters>
+      <name value="C53"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="121" name="mapCity"/>
+    <parameters>
+      <name value="C54"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="122" name="mapCity"/>
+    <parameters>
+      <name value="C62"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="123" name="mapCity"/>
+    <parameters>
+      <name value="C63"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="124" name="mapCity"/>
+    <parameters>
+      <name value="C75"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="125" name="mapCity"/>
+    <parameters>
+      <name value="C76"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="126" name="mapCity"/>
+    <parameters>
+      <name value="C84"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="127" name="mapCity"/>
+    <parameters>
+      <name value="C87"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="128" name="mapCity"/>
+    <parameters>
+      <name value="C88"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="129" name="mapCity"/>
+    <parameters>
+      <name value="C92"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="130" name="mapCity"/>
+    <parameters>
+      <name value="C95"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="131" name="mapCity"/>
+    <parameters>
+      <name value="C97"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="132" name="mapCity"/>
+    <parameters>
+      <name value="C100"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="133" name="mapRoad"/>
+    <parameters>
+      <start value="C1"/>
+      <end value="C2"/>
+    </parameters>
+    <output>
+      <roadCreated end="C2" start="C1"/>
+    </output>
+  </success>
+  <success>
+    <command id="134" name="mapRoad"/>
+    <parameters>
+      <start value="C2"/>
+      <end value="C4"/>
+    </parameters>
+    <output>
+      <roadCreated end="C4" start="C2"/>
+    </output>
+  </success>
+  <success>
+    <command id="135" name="mapRoad"/>
+    <parameters>
+      <start value="C4"/>
+      <end value="C5"/>
+    </parameters>
+    <output>
+      <roadCreated end="C5" start="C4"/>
+    </output>
+  </success>
+  <success>
+    <command id="136" name="mapRoad"/>
+    <parameters>
+      <start value="C5"/>
+      <end value="C6"/>
+    </parameters>
+    <output>
+      <roadCreated end="C6" start="C5"/>
+    </output>
+  </success>
+  <success>
+    <command id="137" name="mapRoad"/>
+    <parameters>
+      <start value="C6"/>
+      <end value="C8"/>
+    </parameters>
+    <output>
+      <roadCreated end="C8" start="C6"/>
+    </output>
+  </success>
+  <success>
+    <command id="138" name="mapRoad"/>
+    <parameters>
+      <start value="C8"/>
+      <end value="C10"/>
+    </parameters>
+    <output>
+      <roadCreated end="C10" start="C8"/>
+    </output>
+  </success>
+  <success>
+    <command id="139" name="mapRoad"/>
+    <parameters>
+      <start value="C10"/>
+      <end value="C11"/>
+    </parameters>
+    <output>
+      <roadCreated end="C11" start="C10"/>
+    </output>
+  </success>
+  <success>
+    <command id="140" name="mapRoad"/>
+    <parameters>
+      <start value="C11"/>
+      <end value="C12"/>
+    </parameters>
+    <output>
+      <roadCreated end="C12" start="C11"/>
+    </output>
+  </success>
+  <success>
+    <command id="141" name="mapRoad"/>
+    <parameters>
+      <start value="C12"/>
+      <end value="C13"/>
+    </parameters>
+    <output>
+      <roadCreated end="C13" start="C12"/>
+    </output>
+  </success>
+  <success>
+    <command id="142" name="mapRoad"/>
+    <parameters>
+      <start value="C13"/>
+      <end value="C15"/>
+    </parameters>
+    <output>
+      <roadCreated end="C15" start="C13"/>
+    </output>
+  </success>
+  <success>
+    <command id="143" name="mapRoad"/>
+    <parameters>
+      <start value="C15"/>
+      <end value="C17"/>
+    </parameters>
+    <output>
+      <roadCreated end="C17" start="C15"/>
+    </output>
+  </success>
+  <success>
+    <command id="144" name="mapRoad"/>
+    <parameters>
+      <start value="C17"/>
+      <end value="C20"/>
+    </parameters>
+    <output>
+      <roadCreated end="C20" start="C17"/>
+    </output>
+  </success>
+  <success>
+    <command id="145" name="mapRoad"/>
+    <parameters>
+      <start value="C20"/>
+      <end value="C21"/>
+    </parameters>
+    <output>
+      <roadCreated end="C21" start="C20"/>
+    </output>
+  </success>
+  <success>
+    <command id="146" name="mapRoad"/>
+    <parameters>
+      <start value="C21"/>
+      <end value="C22"/>
+    </parameters>
+    <output>
+      <roadCreated end="C22" start="C21"/>
+    </output>
+  </success>
+  <success>
+    <command id="147" name="mapRoad"/>
+    <parameters>
+      <start value="C22"/>
+      <end value="C23"/>
+    </parameters>
+    <output>
+      <roadCreated end="C23" start="C22"/>
+    </output>
+  </success>
+  <success>
+    <command id="148" name="mapRoad"/>
+    <parameters>
+      <start value="C23"/>
+      <end value="C25"/>
+    </parameters>
+    <output>
+      <roadCreated end="C25" start="C23"/>
+    </output>
+  </success>
+  <success>
+    <command id="149" name="mapRoad"/>
+    <parameters>
+      <start value="C25"/>
+      <end value="C26"/>
+    </parameters>
+    <output>
+      <roadCreated end="C26" start="C25"/>
+    </output>
+  </success>
+  <success>
+    <command id="150" name="mapRoad"/>
+    <parameters>
+      <start value="C26"/>
+      <end value="C27"/>
+    </parameters>
+    <output>
+      <roadCreated end="C27" start="C26"/>
+    </output>
+  </success>
+  <success>
+    <command id="151" name="mapRoad"/>
+    <parameters>
+      <start value="C27"/>
+      <end value="C28"/>
+    </parameters>
+    <output>
+      <roadCreated end="C28" start="C27"/>
+    </output>
+  </success>
+  <success>
+    <command id="152" name="mapRoad"/>
+    <parameters>
+      <start value="C28"/>
+      <end value="C29"/>
+    </parameters>
+    <output>
+      <roadCreated end="C29" start="C28"/>
+    </output>
+  </success>
+  <success>
+    <command id="153" name="mapRoad"/>
+    <parameters>
+      <start value="C29"/>
+      <end value="C31"/>
+    </parameters>
+    <output>
+      <roadCreated end="C31" start="C29"/>
+    </output>
+  </success>
+  <success>
+    <command id="154" name="mapRoad"/>
+    <parameters>
+      <start value="C31"/>
+      <end value="C32"/>
+    </parameters>
+    <output>
+      <roadCreated end="C32" start="C31"/>
+    </output>
+  </success>
+  <success>
+    <command id="155" name="mapRoad"/>
+    <parameters>
+      <start value="C32"/>
+      <end value="C33"/>
+    </parameters>
+    <output>
+      <roadCreated end="C33" start="C32"/>
+    </output>
+  </success>
+  <success>
+    <command id="156" name="mapRoad"/>
+    <parameters>
+      <start value="C33"/>
+      <end value="C34"/>
+    </parameters>
+    <output>
+      <roadCreated end="C34" start="C33"/>
+    </output>
+  </success>
+  <success>
+    <command id="157" name="mapRoad"/>
+    <parameters>
+      <start value="C34"/>
+      <end value="C35"/>
+    </parameters>
+    <output>
+      <roadCreated end="C35" start="C34"/>
+    </output>
+  </success>
+  <success>
+    <command id="158" name="mapRoad"/>
+    <parameters>
+      <start value="C35"/>
+      <end value="C40"/>
+    </parameters>
+    <output>
+      <roadCreated end="C40" start="C35"/>
+    </output>
+  </success>
+  <success>
+    <command id="159" name="mapRoad"/>
+    <parameters>
+      <start value="C40"/>
+      <end value="C42"/>
+    </parameters>
+    <output>
+      <roadCreated end="C42" start="C40"/>
+    </output>
+  </success>
+  <success>
+    <command id="160" name="mapRoad"/>
+    <parameters>
+      <start value="C42"/>
+      <end value="C43"/>
+    </parameters>
+    <output>
+      <roadCreated end="C43" start="C42"/>
+    </output>
+  </success>
+  <success>
+    <command id="161" name="mapRoad"/>
+    <parameters>
+      <start value="C43"/>
+      <end value="C45"/>
+    </parameters>
+    <output>
+      <roadCreated end="C45" start="C43"/>
+    </output>
+  </success>
+  <success>
+    <command id="162" name="mapRoad"/>
+    <parameters>
+      <start value="C45"/>
+      <end value="C49"/>
+    </parameters>
+    <output>
+      <roadCreated end="C49" start="C45"/>
+    </output>
+  </success>
+  <success>
+    <command id="163" name="mapRoad"/>
+    <parameters>
+      <start value="C49"/>
+      <end value="C50"/>
+    </parameters>
+    <output>
+      <roadCreated end="C50" start="C49"/>
+    </output>
+  </success>
+  <success>
+    <command id="164" name="mapRoad"/>
+    <parameters>
+      <start value="C50"/>
+      <end value="C52"/>
+    </parameters>
+    <output>
+      <roadCreated end="C52" start="C50"/>
+    </output>
+  </success>
+  <success>
+    <command id="165" name="mapRoad"/>
+    <parameters>
+      <start value="C52"/>
+      <end value="C55"/>
+    </parameters>
+    <output>
+      <roadCreated end="C55" start="C52"/>
+    </output>
+  </success>
+  <success>
+    <command id="166" name="mapRoad"/>
+    <parameters>
+      <start value="C55"/>
+      <end value="C56"/>
+    </parameters>
+    <output>
+      <roadCreated end="C56" start="C55"/>
+    </output>
+  </success>
+  <success>
+    <command id="167" name="mapRoad"/>
+    <parameters>
+      <start value="C56"/>
+      <end value="C57"/>
+    </parameters>
+    <output>
+      <roadCreated end="C57" start="C56"/>
+    </output>
+  </success>
+  <success>
+    <command id="168" name="mapRoad"/>
+    <parameters>
+      <start value="C57"/>
+      <end value="C58"/>
+    </parameters>
+    <output>
+      <roadCreated end="C58" start="C57"/>
+    </output>
+  </success>
+  <success>
+    <command id="169" name="mapRoad"/>
+    <parameters>
+      <start value="C58"/>
+      <end value="C59"/>
+    </parameters>
+    <output>
+      <roadCreated end="C59" start="C58"/>
+    </output>
+  </success>
+  <success>
+    <command id="170" name="mapRoad"/>
+    <parameters>
+      <start value="C59"/>
+      <end value="C60"/>
+    </parameters>
+    <output>
+      <roadCreated end="C60" start="C59"/>
+    </output>
+  </success>
+  <success>
+    <command id="171" name="mapRoad"/>
+    <parameters>
+      <start value="C60"/>
+      <end value="C61"/>
+    </parameters>
+    <output>
+      <roadCreated end="C61" start="C60"/>
+    </output>
+  </success>
+  <success>
+    <command id="172" name="mapRoad"/>
+    <parameters>
+      <start value="C61"/>
+      <end value="C64"/>
+    </parameters>
+    <output>
+      <roadCreated end="C64" start="C61"/>
+    </output>
+  </success>
+  <success>
+    <command id="173" name="mapRoad"/>
+    <parameters>
+      <start value="C64"/>
+      <end value="C65"/>
+    </parameters>
+    <output>
+      <roadCreated end="C65" start="C64"/>
+    </output>
+  </success>
+  <success>
+    <command id="174" name="mapRoad"/>
+    <parameters>
+      <start value="C65"/>
+      <end value="C66"/>
+    </parameters>
+    <output>
+      <roadCreated end="C66" start="C65"/>
+    </output>
+  </success>
+  <success>
+    <command id="175" name="mapRoad"/>
+    <parameters>
+      <start value="C66"/>
+      <end value="C67"/>
+    </parameters>
+    <output>
+      <roadCreated end="C67" start="C66"/>
+    </output>
+  </success>
+  <success>
+    <command id="176" name="mapRoad"/>
+    <parameters>
+      <start value="C67"/>
+      <end value="C68"/>
+    </parameters>
+    <output>
+      <roadCreated end="C68" start="C67"/>
+    </output>
+  </success>
+  <success>
+    <command id="177" name="mapRoad"/>
+    <parameters>
+      <start value="C68"/>
+      <end value="C69"/>
+    </parameters>
+    <output>
+      <roadCreated end="C69" start="C68"/>
+    </output>
+  </success>
+  <success>
+    <command id="178" name="mapRoad"/>
+    <parameters>
+      <start value="C69"/>
+      <end value="C70"/>
+    </parameters>
+    <output>
+      <roadCreated end="C70" start="C69"/>
+    </output>
+  </success>
+  <success>
+    <command id="179" name="mapRoad"/>
+    <parameters>
+      <start value="C70"/>
+      <end value="C71"/>
+    </parameters>
+    <output>
+      <roadCreated end="C71" start="C70"/>
+    </output>
+  </success>
+  <success>
+    <command id="180" name="mapRoad"/>
+    <parameters>
+      <start value="C71"/>
+      <end value="C72"/>
+    </parameters>
+    <output>
+      <roadCreated end="C72" start="C71"/>
+    </output>
+  </success>
+  <success>
+    <command id="181" name="mapRoad"/>
+    <parameters>
+      <start value="C72"/>
+      <end value="C73"/>
+    </parameters>
+    <output>
+      <roadCreated end="C73" start="C72"/>
+    </output>
+  </success>
+  <success>
+    <command id="182" name="mapRoad"/>
+    <parameters>
+      <start value="C73"/>
+      <end value="C74"/>
+    </parameters>
+    <output>
+      <roadCreated end="C74" start="C73"/>
+    </output>
+  </success>
+  <success>
+    <command id="183" name="mapRoad"/>
+    <parameters>
+      <start value="C74"/>
+      <end value="C77"/>
+    </parameters>
+    <output>
+      <roadCreated end="C77" start="C74"/>
+    </output>
+  </success>
+  <success>
+    <command id="184" name="mapRoad"/>
+    <parameters>
+      <start value="C77"/>
+      <end value="C78"/>
+    </parameters>
+    <output>
+      <roadCreated end="C78" start="C77"/>
+    </output>
+  </success>
+  <success>
+    <command id="185" name="mapRoad"/>
+    <parameters>
+      <start value="C78"/>
+      <end value="C79"/>
+    </parameters>
+    <output>
+      <roadCreated end="C79" start="C78"/>
+    </output>
+  </success>
+  <success>
+    <command id="186" name="mapRoad"/>
+    <parameters>
+      <start value="C79"/>
+      <end value="C80"/>
+    </parameters>
+    <output>
+      <roadCreated end="C80" start="C79"/>
+    </output>
+  </success>
+  <success>
+    <command id="187" name="mapRoad"/>
+    <parameters>
+      <start value="C80"/>
+      <end value="C81"/>
+    </parameters>
+    <output>
+      <roadCreated end="C81" start="C80"/>
+    </output>
+  </success>
+  <success>
+    <command id="188" name="mapRoad"/>
+    <parameters>
+      <start value="C81"/>
+      <end value="C82"/>
+    </parameters>
+    <output>
+      <roadCreated end="C82" start="C81"/>
+    </output>
+  </success>
+  <success>
+    <command id="189" name="mapRoad"/>
+    <parameters>
+      <start value="C82"/>
+      <end value="C83"/>
+    </parameters>
+    <output>
+      <roadCreated end="C83" start="C82"/>
+    </output>
+  </success>
+  <success>
+    <command id="190" name="mapRoad"/>
+    <parameters>
+      <start value="C83"/>
+      <end value="C85"/>
+    </parameters>
+    <output>
+      <roadCreated end="C85" start="C83"/>
+    </output>
+  </success>
+  <success>
+    <command id="191" name="mapRoad"/>
+    <parameters>
+      <start value="C85"/>
+      <end value="C86"/>
+    </parameters>
+    <output>
+      <roadCreated end="C86" start="C85"/>
+    </output>
+  </success>
+  <success>
+    <command id="192" name="mapRoad"/>
+    <parameters>
+      <start value="C86"/>
+      <end value="C89"/>
+    </parameters>
+    <output>
+      <roadCreated end="C89" start="C86"/>
+    </output>
+  </success>
+  <success>
+    <command id="193" name="mapRoad"/>
+    <parameters>
+      <start value="C89"/>
+      <end value="C90"/>
+    </parameters>
+    <output>
+      <roadCreated end="C90" start="C89"/>
+    </output>
+  </success>
+  <success>
+    <command id="194" name="mapRoad"/>
+    <parameters>
+      <start value="C90"/>
+      <end value="C91"/>
+    </parameters>
+    <output>
+      <roadCreated end="C91" start="C90"/>
+    </output>
+  </success>
+  <success>
+    <command id="195" name="mapRoad"/>
+    <parameters>
+      <start value="C91"/>
+      <end value="C93"/>
+    </parameters>
+    <output>
+      <roadCreated end="C93" start="C91"/>
+    </output>
+  </success>
+  <success>
+    <command id="196" name="mapRoad"/>
+    <parameters>
+      <start value="C93"/>
+      <end value="C94"/>
+    </parameters>
+    <output>
+      <roadCreated end="C94" start="C93"/>
+    </output>
+  </success>
+  <success>
+    <command id="197" name="mapRoad"/>
+    <parameters>
+      <start value="C94"/>
+      <end value="C96"/>
+    </parameters>
+    <output>
+      <roadCreated end="C96" start="C94"/>
+    </output>
+  </success>
+  <success>
+    <command id="198" name="mapRoad"/>
+    <parameters>
+      <start value="C96"/>
+      <end value="C98"/>
+    </parameters>
+    <output>
+      <roadCreated end="C98" start="C96"/>
+    </output>
+  </success>
+  <success>
+    <command id="199" name="mapRoad"/>
+    <parameters>
+      <start value="C98"/>
+      <end value="C99"/>
+    </parameters>
+    <output>
+      <roadCreated end="C99" start="C98"/>
+    </output>
+  </success>
+  <error type="nameNotInDictionary">
+    <command id="200" name="mapCity"/>
+    <parameters>
+      <name value="C101"/>
+    </parameters>
+  </error>
+  <error type="cityAlreadyMapped">
+    <command id="201" name="mapCity"/>
+    <parameters>
+      <name value="C46"/>
+    </parameters>
+  </error>
+  <error type="cityAlreadyMapped">
+    <command id="202" name="mapCity"/>
+    <parameters>
+      <name value="C70"/>
+    </parameters>
+  </error>
+  <success>
+    <command id="203" name="mapCity"/>
+    <parameters>
+      <name value="O1"/>
+    </parameters>
+    <output/>
+  </success>
+  <error type="cityOutOfBounds">
+    <command id="204" name="mapCity"/>
+    <parameters>
+      <name value="O2"/>
+    </parameters>
+  </error>
+  <error type="startOrEndIsIsolated">
+    <command id="205" name="mapRoad"/>
+    <parameters>
+      <start value="O1"/>
+      <end value="C99"/>
+    </parameters>
+  </error>
+  <error type="startOrEndIsIsolated">
+    <command id="206" name="mapRoad"/>
+    <parameters>
+      <start value="C98"/>
+      <end value="C30"/>
+    </parameters>
+  </error>
+  <success>
+    <command id="9999" name="printPMQuadtree"/>
+    <parameters/>
+    <output>
+      <quadtree order="3">
+        <gray x="4096" y="4096">
+          <gray x="2048" y="6144">
+            <gray x="1024" y="7168">
+              <white/>
+              <gray x="1536" y="7680">
+                <black cardinality="1">
+                  <isolatedCity color="black" name="C14" radius="0" x="1154" y="8098"/>
+                </black>
+                <white/>
+                <gray x="1280" y="7424">
+                  <white/>
+                  <white/>
+                  <black cardinality="3">
+                    <city color="black" name="C13" radius="0" x="1108" y="7230"/>
+                    <road end="C15" start="C13"/>
+                    <road end="C13" start="C12"/>
+                  </black>
+                  <black cardinality="1">
+                    <isolatedCity color="black" name="C16" radius="0" x="1362" y="7217"/>
+                  </black>
+                </gray>
+                <white/>
+              </gray>
+              <black cardinality="2">
+                <isolatedCity color="black" name="C9" radius="0" x="830" y="7099"/>
+                <road end="C12" start="C11"/>
+              </black>
+              <gray x="1536" y="6656">
+                <gray x="1280" y="6912">
+                  <gray x="1152" y="7040">
+                    <black cardinality="3">
+                      <city color="black" name="C12" radius="0" x="1052" y="7050"/>
+                      <road end="C13" start="C12"/>
+                      <road end="C12" start="C11"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C15" radius="0" x="1234" y="7108"/>
+                      <road end="C17" start="C15"/>
+                      <road end="C15" start="C13"/>
+                    </black>
+                    <black cardinality="1">
+                      <road end="C12" start="C11"/>
+                    </black>
+                    <black cardinality="1">
+                      <road end="C17" start="C15"/>
+                    </black>
+                  </gray>
+                  <white/>
+                  <black cardinality="2">
+                    <road end="C17" start="C15"/>
+                    <road end="C12" start="C11"/>
+                  </black>
+                  <white/>
+                </gray>
+                <white/>
+                <black cardinality="2">
+                  <road end="C17" start="C15"/>
+                  <road end="C12" start="C11"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C21" radius="0" x="1773" y="6277"/>
+                  <road end="C22" start="C21"/>
+                  <road end="C21" start="C20"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="3072" y="7168">
+              <gray x="2560" y="7680">
+                <white/>
+                <white/>
+                <black cardinality="4">
+                  <city color="black" name="C28" radius="0" x="2326" y="7172"/>
+                  <road end="C31" start="C29"/>
+                  <road end="C29" start="C28"/>
+                  <road end="C28" start="C27"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C31" radius="0" x="2566" y="7411"/>
+                  <road end="C32" start="C31"/>
+                  <road end="C31" start="C29"/>
+                </black>
+              </gray>
+              <white/>
+              <gray x="2560" y="6656">
+                <black cardinality="3">
+                  <road end="C31" start="C29"/>
+                  <road end="C29" start="C28"/>
+                  <road end="C28" start="C27"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C32" start="C31"/>
+                </black>
+                <black cardinality="6">
+                  <city color="black" name="C25" radius="0" x="2055" y="6205"/>
+                  <road end="C31" start="C29"/>
+                  <road end="C29" start="C28"/>
+                  <road end="C28" start="C27"/>
+                  <road end="C26" start="C25"/>
+                  <road end="C25" start="C23"/>
+                </black>
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C36" radius="0" x="2935" y="6640"/>
+                  <road end="C32" start="C31"/>
+                </black>
+              </gray>
+              <gray x="3584" y="6656">
+                <black cardinality="3">
+                  <city color="black" name="C43" radius="0" x="3524" y="6820"/>
+                  <road end="C45" start="C43"/>
+                  <road end="C43" start="C42"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C50" start="C49"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C45" start="C43"/>
+                  <road end="C43" start="C42"/>
+                </black>
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C47" radius="0" x="3799" y="6336"/>
+                  <road end="C50" start="C49"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="1024" y="5120">
+              <black cardinality="4">
+                <city color="black" name="C5" radius="0" x="397" y="6016"/>
+                <road end="C6" start="C5"/>
+                <road end="C5" start="C4"/>
+                <road end="C12" start="C11"/>
+              </black>
+              <black cardinality="4">
+                <road end="C25" start="C23"/>
+                <road end="C22" start="C21"/>
+                <road end="C21" start="C20"/>
+                <road end="C17" start="C15"/>
+              </black>
+              <gray x="512" y="4608">
+                <black cardinality="4">
+                  <city color="black" name="C4" radius="0" x="343" y="4913"/>
+                  <road end="C6" start="C5"/>
+                  <road end="C5" start="C4"/>
+                  <road end="C4" start="C2"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C12" start="C11"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C2" radius="0" x="153" y="4458"/>
+                  <road end="C6" start="C5"/>
+                  <road end="C4" start="C2"/>
+                  <road end="C2" start="C1"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C12" start="C11"/>
+                </black>
+              </gray>
+              <gray x="1536" y="4608">
+                <black cardinality="3">
+                  <city color="black" name="C17" radius="0" x="1373" y="4872"/>
+                  <road end="C20" start="C17"/>
+                  <road end="C17" start="C15"/>
+                </black>
+                <black cardinality="3">
+                  <road end="C25" start="C23"/>
+                  <road end="C22" start="C21"/>
+                  <road end="C21" start="C20"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C20" start="C17"/>
+                </black>
+                <black cardinality="5">
+                  <isolatedCity color="black" name="C24" radius="0" x="2030" y="4183"/>
+                  <road end="C25" start="C23"/>
+                  <road end="C22" start="C21"/>
+                  <road end="C21" start="C20"/>
+                  <road end="C20" start="C17"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="3072" y="5120">
+              <gray x="2560" y="5632">
+                <black cardinality="5">
+                  <road end="C31" start="C29"/>
+                  <road end="C29" start="C28"/>
+                  <road end="C28" start="C27"/>
+                  <road end="C26" start="C25"/>
+                  <road end="C25" start="C23"/>
+                </black>
+                <gray x="2816" y="5888">
+                  <gray x="2688" y="6016">
+                    <black cardinality="3">
+                      <city color="black" name="C32" radius="0" x="2604" y="6129"/>
+                      <road end="C33" start="C32"/>
+                      <road end="C32" start="C31"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C34" radius="0" x="2765" y="6065"/>
+                      <road end="C35" start="C34"/>
+                      <road end="C34" start="C33"/>
+                    </black>
+                    <black cardinality="1">
+                      <road end="C33" start="C32"/>
+                    </black>
+                    <black cardinality="2">
+                      <road end="C35" start="C34"/>
+                      <road end="C34" start="C33"/>
+                    </black>
+                  </gray>
+                  <white/>
+                  <black cardinality="3">
+                    <road end="C35" start="C34"/>
+                    <road end="C34" start="C33"/>
+                    <road end="C33" start="C32"/>
+                  </black>
+                  <white/>
+                </gray>
+                <black cardinality="4">
+                  <road end="C31" start="C29"/>
+                  <road end="C29" start="C28"/>
+                  <road end="C28" start="C27"/>
+                  <road end="C26" start="C25"/>
+                </black>
+                <black cardinality="3">
+                  <road end="C35" start="C34"/>
+                  <road end="C34" start="C33"/>
+                  <road end="C33" start="C32"/>
+                </black>
+              </gray>
+              <black cardinality="4">
+                <isolatedCity color="black" name="C44" radius="0" x="3560" y="5403"/>
+                <road end="C50" start="C49"/>
+                <road end="C45" start="C43"/>
+                <road end="C43" start="C42"/>
+              </black>
+              <black cardinality="8">
+                <isolatedCity color="black" name="C30" radius="0" x="2503" y="4521"/>
+                <road end="C35" start="C34"/>
+                <road end="C34" start="C33"/>
+                <road end="C33" start="C32"/>
+                <road end="C31" start="C29"/>
+                <road end="C29" start="C28"/>
+                <road end="C28" start="C27"/>
+                <road end="C26" start="C25"/>
+              </black>
+              <black cardinality="4">
+                <isolatedCity color="black" name="C46" radius="0" x="3761" y="4296"/>
+                <road end="C50" start="C49"/>
+                <road end="C45" start="C43"/>
+                <road end="C43" start="C42"/>
+              </black>
+            </gray>
+          </gray>
+          <gray x="6144" y="6144">
+            <gray x="5120" y="7168">
+              <gray x="4608" y="7680">
+                <gray x="4352" y="7936">
+                  <black cardinality="3">
+                    <city color="black" name="C50" radius="0" x="4112" y="8190"/>
+                    <road end="C52" start="C50"/>
+                    <road end="C50" start="C49"/>
+                  </black>
+                  <white/>
+                  <black cardinality="2">
+                    <road end="C52" start="C50"/>
+                    <road end="C50" start="C49"/>
+                  </black>
+                  <black cardinality="3">
+                    <city color="black" name="C56" radius="0" x="4513" y="7756"/>
+                    <road end="C57" start="C56"/>
+                    <road end="C56" start="C55"/>
+                  </black>
+                </gray>
+                <white/>
+                <black cardinality="4">
+                  <road end="C57" start="C56"/>
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                  <road end="C50" start="C49"/>
+                </black>
+                <white/>
+              </gray>
+              <white/>
+              <gray x="4608" y="6656">
+                <black cardinality="4">
+                  <road end="C57" start="C56"/>
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                  <road end="C50" start="C49"/>
+                </black>
+                <black cardinality="1">
+                  <isolatedCity color="black" name="C63" radius="0" x="5013" y="6927"/>
+                </black>
+                <black cardinality="4">
+                  <isolatedCity color="black" name="C51" radius="0" x="4205" y="6503"/>
+                  <road end="C57" start="C56"/>
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <white/>
+              </gray>
+              <gray x="5632" y="6656">
+                <black cardinality="3">
+                  <city color="black" name="C69" radius="0" x="5582" y="6942"/>
+                  <road end="C70" start="C69"/>
+                  <road end="C69" start="C68"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C70" radius="0" x="5712" y="6954"/>
+                  <road end="C71" start="C70"/>
+                  <road end="C70" start="C69"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C67" radius="0" x="5377" y="6648"/>
+                  <road end="C69" start="C68"/>
+                  <road end="C68" start="C67"/>
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C71" start="C70"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="7168" y="7168">
+              <black cardinality="3">
+                <city color="black" name="C79" radius="0" x="6384" y="8094"/>
+                <road end="C80" start="C79"/>
+                <road end="C79" start="C78"/>
+              </black>
+              <gray x="7680" y="7680">
+                <black cardinality="3">
+                  <city color="black" name="C93" radius="0" x="7464" y="7951"/>
+                  <road end="C94" start="C93"/>
+                  <road end="C93" start="C91"/>
+                </black>
+                <black cardinality="1">
+                  <isolatedCity color="black" name="O1" radius="0" x="8192" y="8192"/>
+                </black>
+                <black cardinality="5">
+                  <city color="black" name="C89" radius="0" x="7222" y="7628"/>
+                  <road end="C94" start="C93"/>
+                  <road end="C93" start="C91"/>
+                  <road end="C90" start="C89"/>
+                  <road end="C89" start="C86"/>
+                </black>
+                <black cardinality="1">
+                  <isolatedCity color="black" name="C95" radius="0" x="7751" y="7546"/>
+                </black>
+              </gray>
+              <gray x="6656" y="6656">
+                <black cardinality="2">
+                  <road end="C80" start="C79"/>
+                  <road end="C79" start="C78"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C85" radius="0" x="6715" y="6910"/>
+                  <road end="C89" start="C86"/>
+                  <road end="C86" start="C85"/>
+                  <road end="C85" start="C83"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C80" start="C79"/>
+                  <road end="C79" start="C78"/>
+                </black>
+                <gray x="6912" y="6400">
+                  <black cardinality="3">
+                    <isolatedCity color="black" name="C84" radius="0" x="6666" y="6518"/>
+                    <road end="C86" start="C85"/>
+                    <road end="C85" start="C83"/>
+                  </black>
+                  <black cardinality="1">
+                    <road end="C89" start="C86"/>
+                  </black>
+                  <black cardinality="2">
+                    <road end="C86" start="C85"/>
+                    <road end="C85" start="C83"/>
+                  </black>
+                  <black cardinality="2">
+                    <isolatedCity color="black" name="C88" radius="0" x="7084" y="6228"/>
+                    <road end="C89" start="C86"/>
+                  </black>
+                </gray>
+              </gray>
+              <gray x="7680" y="6656">
+                <black cardinality="6">
+                  <city color="black" name="C91" radius="0" x="7326" y="7048"/>
+                  <road end="C94" start="C93"/>
+                  <road end="C93" start="C91"/>
+                  <road end="C91" start="C90"/>
+                  <road end="C90" start="C89"/>
+                  <road end="C89" start="C86"/>
+                </black>
+                <black cardinality="2">
+                  <city color="black" name="C99" radius="0" x="8012" y="6744"/>
+                  <road end="C99" start="C98"/>
+                </black>
+                <black cardinality="4">
+                  <isolatedCity color="black" name="C92" radius="0" x="7407" y="6399"/>
+                  <road end="C94" start="C93"/>
+                  <road end="C91" start="C90"/>
+                  <road end="C90" start="C89"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C99" start="C98"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="5120" y="5120">
+              <gray x="4608" y="5632">
+                <black cardinality="3">
+                  <road end="C57" start="C56"/>
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C62" radius="0" x="4993" y="5894"/>
+                  <road end="C57" start="C56"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C57" radius="0" x="4636" y="5552"/>
+                  <road end="C58" start="C57"/>
+                  <road end="C57" start="C56"/>
+                </black>
+              </gray>
+              <gray x="5632" y="5632">
+                <black cardinality="3">
+                  <road end="C69" start="C68"/>
+                  <road end="C68" start="C67"/>
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C71" radius="0" x="5756" y="6091"/>
+                  <road end="C72" start="C71"/>
+                  <road end="C71" start="C70"/>
+                </black>
+                <black cardinality="3">
+                  <road end="C69" start="C68"/>
+                  <road end="C68" start="C67"/>
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C75" radius="0" x="6026" y="5160"/>
+                  <road end="C72" start="C71"/>
+                </black>
+              </gray>
+              <gray x="4608" y="4608">
+                <black cardinality="2">
+                  <road end="C56" start="C55"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C58" radius="0" x="4658" y="5030"/>
+                  <road end="C59" start="C58"/>
+                  <road end="C58" start="C57"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C55" radius="0" x="4430" y="4378"/>
+                  <road end="C56" start="C55"/>
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C59" start="C58"/>
+                </black>
+              </gray>
+              <gray x="5632" y="4608">
+                <black cardinality="4">
+                  <city color="black" name="C68" radius="0" x="5450" y="4989"/>
+                  <road end="C69" start="C68"/>
+                  <road end="C68" start="C67"/>
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C76" radius="0" x="6066" y="4897"/>
+                  <road end="C72" start="C71"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C72" start="C71"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="7168" y="5120">
+              <black cardinality="6">
+                <isolatedCity color="black" name="C87" radius="0" x="6945" y="5997"/>
+                <road end="C89" start="C86"/>
+                <road end="C86" start="C85"/>
+                <road end="C85" start="C83"/>
+                <road end="C80" start="C79"/>
+                <road end="C79" start="C78"/>
+              </black>
+              <black cardinality="6">
+                <city color="black" name="C98" radius="0" x="7915" y="5579"/>
+                <road end="C99" start="C98"/>
+                <road end="C98" start="C96"/>
+                <road end="C94" start="C93"/>
+                <road end="C91" start="C90"/>
+                <road end="C90" start="C89"/>
+              </black>
+              <gray x="6656" y="4608">
+                <black cardinality="3">
+                  <road end="C85" start="C83"/>
+                  <road end="C80" start="C79"/>
+                  <road end="C79" start="C78"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C89" start="C86"/>
+                  <road end="C86" start="C85"/>
+                </black>
+                <gray x="6400" y="4352">
+                  <black cardinality="1">
+                    <road end="C79" start="C78"/>
+                  </black>
+                  <black cardinality="5">
+                    <city color="black" name="C81" radius="0" x="6515" y="4571"/>
+                    <road end="C85" start="C83"/>
+                    <road end="C82" start="C81"/>
+                    <road end="C81" start="C80"/>
+                    <road end="C80" start="C79"/>
+                  </black>
+                  <black cardinality="1">
+                    <road end="C79" start="C78"/>
+                  </black>
+                  <black cardinality="6">
+                    <city color="black" name="C83" radius="0" x="6620" y="4333"/>
+                    <road end="C85" start="C83"/>
+                    <road end="C83" start="C82"/>
+                    <road end="C82" start="C81"/>
+                    <road end="C81" start="C80"/>
+                    <road end="C80" start="C79"/>
+                  </black>
+                </gray>
+                <black cardinality="2">
+                  <road end="C89" start="C86"/>
+                  <road end="C86" start="C85"/>
+                </black>
+              </gray>
+              <black cardinality="5">
+                <isolatedCity color="black" name="C97" radius="0" x="7871" y="4112"/>
+                <road end="C98" start="C96"/>
+                <road end="C94" start="C93"/>
+                <road end="C91" start="C90"/>
+                <road end="C90" start="C89"/>
+              </black>
+            </gray>
+          </gray>
+          <gray x="2048" y="2048">
+            <gray x="1024" y="3072">
+              <black cardinality="5">
+                <city color="black" name="C11" radius="0" x="903" y="3683"/>
+                <road end="C6" start="C5"/>
+                <road end="C12" start="C11"/>
+                <road end="C11" start="C10"/>
+                <road end="C2" start="C1"/>
+              </black>
+              <gray x="1536" y="3584">
+                <white/>
+                <gray x="1792" y="3840">
+                  <black cardinality="3">
+                    <city color="black" name="C20" radius="0" x="1653" y="3884"/>
+                    <road end="C21" start="C20"/>
+                    <road end="C20" start="C17"/>
+                  </black>
+                  <black cardinality="4">
+                    <city color="black" name="C22" radius="0" x="1872" y="4085"/>
+                    <road end="C25" start="C23"/>
+                    <road end="C23" start="C22"/>
+                    <road end="C22" start="C21"/>
+                  </black>
+                  <white/>
+                  <black cardinality="2">
+                    <road end="C25" start="C23"/>
+                    <road end="C23" start="C22"/>
+                  </black>
+                </gray>
+                <white/>
+                <black cardinality="2">
+                  <road end="C25" start="C23"/>
+                  <road end="C23" start="C22"/>
+                </black>
+              </gray>
+              <gray x="512" y="2560">
+                <black cardinality="3">
+                  <city color="black" name="C1" radius="0" x="136" y="2752"/>
+                  <road end="C6" start="C5"/>
+                  <road end="C2" start="C1"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C11" start="C10"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C6" start="C5"/>
+                </black>
+                <gray x="768" y="2304">
+                  <gray x="640" y="2432">
+                    <black cardinality="1">
+                      <isolatedCity color="black" name="C7" radius="0" x="594" y="2496"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C8" radius="0" x="746" y="2500"/>
+                      <road end="C8" start="C6"/>
+                      <road end="C8" start="C10"/>
+                    </black>
+                    <white/>
+                    <black cardinality="2">
+                      <road end="C8" start="C6"/>
+                      <road end="C8" start="C10"/>
+                    </black>
+                  </gray>
+                  <black cardinality="1">
+                    <road end="C11" start="C10"/>
+                  </black>
+                  <black cardinality="2">
+                    <road end="C8" start="C6"/>
+                    <road end="C8" start="C10"/>
+                  </black>
+                  <black cardinality="2">
+                    <road end="C8" start="C10"/>
+                    <road end="C11" start="C10"/>
+                  </black>
+                </gray>
+              </gray>
+              <gray x="1536" y="2560">
+                <gray x="1280" y="2816">
+                  <white/>
+                  <black cardinality="1">
+                    <isolatedCity color="black" name="C18" radius="0" x="1390" y="2870"/>
+                  </black>
+                  <white/>
+                  <black cardinality="1">
+                    <isolatedCity color="black" name="C19" radius="0" x="1514" y="2647"/>
+                  </black>
+                </gray>
+                <black cardinality="2">
+                  <road end="C25" start="C23"/>
+                  <road end="C23" start="C22"/>
+                </black>
+                <white/>
+                <black cardinality="3">
+                  <city color="black" name="C23" radius="0" x="1950" y="2309"/>
+                  <road end="C25" start="C23"/>
+                  <road end="C23" start="C22"/>
+                </black>
+              </gray>
+            </gray>
+            <gray x="3072" y="3072">
+              <gray x="2560" y="3584">
+                <gray x="2304" y="3840">
+                  <black cardinality="4">
+                    <city color="black" name="C26" radius="0" x="2139" y="3875"/>
+                    <road end="C28" start="C27"/>
+                    <road end="C27" start="C26"/>
+                    <road end="C26" start="C25"/>
+                  </black>
+                  <black cardinality="3">
+                    <city color="black" name="C29" radius="0" x="2473" y="4056"/>
+                    <road end="C31" start="C29"/>
+                    <road end="C29" start="C28"/>
+                  </black>
+                  <black cardinality="2">
+                    <road end="C28" start="C27"/>
+                    <road end="C27" start="C26"/>
+                  </black>
+                  <white/>
+                </gray>
+                <gray x="2816" y="3840">
+                  <black cardinality="2">
+                    <road end="C34" start="C33"/>
+                    <road end="C33" start="C32"/>
+                  </black>
+                  <black cardinality="1">
+                    <road end="C35" start="C34"/>
+                  </black>
+                  <black cardinality="3">
+                    <city color="black" name="C33" radius="0" x="2674" y="3820"/>
+                    <road end="C34" start="C33"/>
+                    <road end="C33" start="C32"/>
+                  </black>
+                  <gray x="2944" y="3712">
+                    <black cardinality="1">
+                      <road end="C35" start="C34"/>
+                    </black>
+                    <black cardinality="1">
+                      <isolatedCity color="black" name="C37" radius="0" x="3047" y="3741"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C35" radius="0" x="2891" y="3659"/>
+                      <road end="C40" start="C35"/>
+                      <road end="C35" start="C34"/>
+                    </black>
+                    <white/>
+                  </gray>
+                </gray>
+                <black cardinality="2">
+                  <road end="C28" start="C27"/>
+                  <road end="C27" start="C26"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C40" start="C35"/>
+                </black>
+              </gray>
+              <gray x="3584" y="3584">
+                <black cardinality="2">
+                  <isolatedCity color="black" name="C39" radius="0" x="3221" y="3748"/>
+                  <road end="C43" start="C42"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C45" radius="0" x="3661" y="3883"/>
+                  <road end="C50" start="C49"/>
+                  <road end="C49" start="C45"/>
+                  <road end="C45" start="C43"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C43" start="C42"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C50" start="C49"/>
+                  <road end="C49" start="C45"/>
+                </black>
+              </gray>
+              <black cardinality="3">
+                <road end="C40" start="C35"/>
+                <road end="C28" start="C27"/>
+                <road end="C27" start="C26"/>
+              </black>
+              <gray x="3584" y="2560">
+                <black cardinality="2">
+                  <road end="C43" start="C42"/>
+                  <road end="C40" start="C35"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C50" start="C49"/>
+                  <road end="C49" start="C45"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C43" start="C42"/>
+                  <road end="C40" start="C35"/>
+                </black>
+                <gray x="3840" y="2304">
+                  <white/>
+                  <black cardinality="2">
+                    <road end="C50" start="C49"/>
+                    <road end="C49" start="C45"/>
+                  </black>
+                  <white/>
+                  <gray x="3968" y="2176">
+                    <black cardinality="1">
+                      <isolatedCity color="black" name="C48" radius="0" x="3885" y="2187"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C49" radius="0" x="4028" y="2302"/>
+                      <road end="C50" start="C49"/>
+                      <road end="C49" start="C45"/>
+                    </black>
+                    <white/>
+                    <white/>
+                  </gray>
+                </gray>
+              </gray>
+            </gray>
+            <gray x="1024" y="1024">
+              <gray x="512" y="1536">
+                <gray x="256" y="1792">
+                  <white/>
+                  <black cardinality="3">
+                    <isolatedCity color="black" name="C3" radius="0" x="259" y="1922"/>
+                    <road end="C8" start="C6"/>
+                    <road end="C6" start="C5"/>
+                  </black>
+                  <white/>
+                  <black cardinality="3">
+                    <city color="black" name="C6" radius="0" x="453" y="1698"/>
+                    <road end="C8" start="C6"/>
+                    <road end="C6" start="C5"/>
+                  </black>
+                </gray>
+                <black cardinality="3">
+                  <road end="C8" start="C6"/>
+                  <road end="C8" start="C10"/>
+                  <road end="C11" start="C10"/>
+                </black>
+                <white/>
+                <black cardinality="3">
+                  <city color="black" name="C10" radius="0" x="886" y="1174"/>
+                  <road end="C8" start="C10"/>
+                  <road end="C11" start="C10"/>
+                </black>
+              </gray>
+              <white/>
+              <white/>
+              <white/>
+            </gray>
+            <gray x="3072" y="1024">
+              <black cardinality="3">
+                <isolatedCity color="black" name="C38" radius="0" x="3067" y="1430"/>
+                <road end="C28" start="C27"/>
+                <road end="C27" start="C26"/>
+              </black>
+              <black cardinality="4">
+                <city color="black" name="C40" radius="0" x="3367" y="1351"/>
+                <road end="C43" start="C42"/>
+                <road end="C42" start="C40"/>
+                <road end="C40" start="C35"/>
+              </black>
+              <black cardinality="3">
+                <city color="black" name="C27" radius="0" x="2250" y="706"/>
+                <road end="C28" start="C27"/>
+                <road end="C27" start="C26"/>
+              </black>
+              <gray x="3584" y="512">
+                <black cardinality="3">
+                  <city color="black" name="C42" radius="0" x="3507" y="959"/>
+                  <road end="C43" start="C42"/>
+                  <road end="C42" start="C40"/>
+                </black>
+                <white/>
+                <black cardinality="1">
+                  <isolatedCity color="black" name="C41" radius="0" x="3473" y="397"/>
+                </black>
+                <white/>
+              </gray>
+            </gray>
+          </gray>
+          <gray x="6144" y="2048">
+            <gray x="5120" y="3072">
+              <gray x="4608" y="3584">
+                <black cardinality="2">
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <gray x="4864" y="3840">
+                  <black cardinality="1">
+                    <road end="C59" start="C58"/>
+                  </black>
+                  <gray x="4992" y="3968">
+                    <white/>
+                    <white/>
+                    <black cardinality="3">
+                      <city color="black" name="C61" radius="0" x="4902" y="3878"/>
+                      <road end="C64" start="C61"/>
+                      <road end="C61" start="C60"/>
+                    </black>
+                    <black cardinality="3">
+                      <city color="black" name="C64" radius="0" x="5069" y="3882"/>
+                      <road end="C65" start="C64"/>
+                      <road end="C64" start="C61"/>
+                    </black>
+                  </gray>
+                  <black cardinality="1">
+                    <road end="C59" start="C58"/>
+                  </black>
+                  <black cardinality="2">
+                    <road end="C65" start="C64"/>
+                    <road end="C61" start="C60"/>
+                  </black>
+                </gray>
+                <black cardinality="3">
+                  <isolatedCity color="black" name="C53" radius="0" x="4259" y="3326"/>
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="3">
+                  <road end="C65" start="C64"/>
+                  <road end="C61" start="C60"/>
+                  <road end="C59" start="C58"/>
+                </black>
+              </gray>
+              <black cardinality="2">
+                <road end="C72" start="C71"/>
+                <road end="C67" start="C66"/>
+              </black>
+              <gray x="4608" y="2560">
+                <black cardinality="3">
+                  <isolatedCity color="black" name="C54" radius="0" x="4345" y="2618"/>
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="3">
+                  <road end="C65" start="C64"/>
+                  <road end="C61" start="C60"/>
+                  <road end="C59" start="C58"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="5">
+                  <city color="black" name="C59" radius="0" x="4743" y="2348"/>
+                  <road end="C65" start="C64"/>
+                  <road end="C61" start="C60"/>
+                  <road end="C60" start="C59"/>
+                  <road end="C59" start="C58"/>
+                </black>
+              </gray>
+              <gray x="5632" y="2560">
+                <black cardinality="1">
+                  <road end="C67" start="C66"/>
+                </black>
+                <black cardinality="5">
+                  <city color="black" name="C73" radius="0" x="5808" y="2653"/>
+                  <road end="C78" start="C77"/>
+                  <road end="C74" start="C73"/>
+                  <road end="C73" start="C72"/>
+                  <road end="C72" start="C71"/>
+                </black>
+                <black cardinality="1">
+                  <road end="C67" start="C66"/>
+                </black>
+                <gray x="5888" y="2304">
+                  <black cardinality="3">
+                    <road end="C74" start="C73"/>
+                    <road end="C73" start="C72"/>
+                    <road end="C72" start="C71"/>
+                  </black>
+                  <black cardinality="3">
+                    <city color="black" name="C77" radius="0" x="6109" y="2330"/>
+                    <road end="C78" start="C77"/>
+                    <road end="C77" start="C74"/>
+                  </black>
+                  <black cardinality="4">
+                    <city color="black" name="C72" radius="0" x="5787" y="2273"/>
+                    <road end="C74" start="C73"/>
+                    <road end="C73" start="C72"/>
+                    <road end="C72" start="C71"/>
+                  </black>
+                  <black cardinality="1">
+                    <road end="C77" start="C74"/>
+                  </black>
+                </gray>
+              </gray>
+            </gray>
+            <gray x="7168" y="3072">
+              <black cardinality="9">
+                <city color="black" name="C78" radius="0" x="6245" y="3330"/>
+                <road end="C89" start="C86"/>
+                <road end="C86" start="C85"/>
+                <road end="C83" start="C82"/>
+                <road end="C82" start="C81"/>
+                <road end="C81" start="C80"/>
+                <road end="C80" start="C79"/>
+                <road end="C79" start="C78"/>
+                <road end="C78" start="C77"/>
+              </black>
+              <black cardinality="6">
+                <city color="black" name="C94" radius="0" x="7607" y="4051"/>
+                <road end="C98" start="C96"/>
+                <road end="C96" start="C94"/>
+                <road end="C94" start="C93"/>
+                <road end="C91" start="C90"/>
+                <road end="C90" start="C89"/>
+              </black>
+              <black cardinality="7">
+                <road end="C89" start="C86"/>
+                <road end="C86" start="C85"/>
+                <road end="C83" start="C82"/>
+                <road end="C82" start="C81"/>
+                <road end="C81" start="C80"/>
+                <road end="C80" start="C79"/>
+                <road end="C78" start="C77"/>
+              </black>
+              <black cardinality="5">
+                <isolatedCity color="black" name="C100" radius="0" x="8161" y="2381"/>
+                <road end="C98" start="C96"/>
+                <road end="C96" start="C94"/>
+                <road end="C91" start="C90"/>
+                <road end="C90" start="C89"/>
+              </black>
+            </gray>
+            <gray x="5120" y="1024">
+              <gray x="4608" y="1536">
+                <black cardinality="2">
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <black cardinality="4">
+                  <city color="black" name="C60" radius="0" x="4887" y="1985"/>
+                  <road end="C65" start="C64"/>
+                  <road end="C61" start="C60"/>
+                  <road end="C60" start="C59"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C52" radius="0" x="4244" y="1114"/>
+                  <road end="C55" start="C52"/>
+                  <road end="C52" start="C50"/>
+                </black>
+                <white/>
+              </gray>
+              <gray x="5632" y="1536">
+                <black cardinality="4">
+                  <city color="black" name="C65" radius="0" x="5121" y="1957"/>
+                  <road end="C67" start="C66"/>
+                  <road end="C66" start="C65"/>
+                  <road end="C65" start="C64"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C77" start="C74"/>
+                  <road end="C74" start="C73"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C66" radius="0" x="5240" y="1451"/>
+                  <road end="C67" start="C66"/>
+                  <road end="C66" start="C65"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C74" radius="0" x="5908" y="1179"/>
+                  <road end="C77" start="C74"/>
+                  <road end="C74" start="C73"/>
+                </black>
+              </gray>
+              <white/>
+              <white/>
+            </gray>
+            <gray x="7168" y="1024">
+              <black cardinality="6">
+                <road end="C89" start="C86"/>
+                <road end="C86" start="C85"/>
+                <road end="C83" start="C82"/>
+                <road end="C82" start="C81"/>
+                <road end="C81" start="C80"/>
+                <road end="C80" start="C79"/>
+              </black>
+              <black cardinality="5">
+                <city color="black" name="C90" radius="0" x="7271" y="1033"/>
+                <road end="C98" start="C96"/>
+                <road end="C96" start="C94"/>
+                <road end="C91" start="C90"/>
+                <road end="C90" start="C89"/>
+              </black>
+              <gray x="6656" y="512">
+                <black cardinality="5">
+                  <city color="black" name="C82" radius="0" x="6575" y="827"/>
+                  <road end="C83" start="C82"/>
+                  <road end="C82" start="C81"/>
+                  <road end="C81" start="C80"/>
+                  <road end="C80" start="C79"/>
+                </black>
+                <black cardinality="2">
+                  <road end="C89" start="C86"/>
+                  <road end="C86" start="C85"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C80" radius="0" x="6444" y="219"/>
+                  <road end="C81" start="C80"/>
+                  <road end="C80" start="C79"/>
+                </black>
+                <black cardinality="3">
+                  <city color="black" name="C86" radius="0" x="6788" y="404"/>
+                  <road end="C89" start="C86"/>
+                  <road end="C86" start="C85"/>
+                </black>
+              </gray>
+              <black cardinality="3">
+                <city color="black" name="C96" radius="0" x="7780" y="572"/>
+                <road end="C98" start="C96"/>
+                <road end="C96" start="C94"/>
+              </black>
+            </gray>
+          </gray>
+        </gray>
+      </quadtree>
+    </output>
+  </success>
+</results>

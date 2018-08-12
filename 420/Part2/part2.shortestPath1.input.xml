@@ -1,0 +1,88 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+	spatialWidth="8192" spatialHeight="8192" pmOrder="3" >
+<createCity id="1"  name="D0" x="1612" y="1761" radius="0" color="black"/>
+<createCity id="2"  name="D1" x="1592" y="3373" radius="0" color="black"/>
+<createCity id="3"  name="D10" x="980" y="1315" radius="0" color="black"/>
+<createCity id="4"  name="D11" x="3643" y="1199" radius="0" color="black"/>
+<createCity id="5"  name="D12" x="2207" y="3680" radius="0" color="black"/>
+<createCity id="6"  name="D13" x="3897" y="2650" radius="0" color="black"/>
+<createCity id="7"  name="D14" x="1794" y="2856" radius="0" color="black"/>
+<createCity id="8"  name="D2" x="3271" y="2810" radius="0" color="black"/>
+<createCity id="9"  name="D3" x="3489" y="4022" radius="0" color="black"/>
+<createCity id="10"  name="D4" x="943" y="957" radius="0" color="black"/>
+<createCity id="11"  name="D5" x="1933" y="2558" radius="0" color="black"/>
+<createCity id="12"  name="D6" x="926" y="3921" radius="0" color="black"/>
+<createCity id="13"  name="D7" x="1745" y="61" radius="0" color="black"/>
+<createCity id="14"  name="D8" x="955" y="3328" radius="0" color="black"/>
+<createCity id="15"  name="D9" x="2046" y="1931" radius="0" color="black"/>
+<mapRoad id="16"  start="D0" end="D10"/>
+<mapRoad id="17"  start="D0" end="D14"/>
+<mapRoad id="18"  start="D0" end="D4"/>
+<mapRoad id="19"  start="D0" end="D5"/>
+<mapRoad id="20"  start="D0" end="D7"/>
+<mapRoad id="21"  start="D0" end="D8"/>
+<mapRoad id="22"  start="D0" end="D9"/>
+<mapRoad id="23"  start="D1" end="D12"/>
+<mapRoad id="24"  start="D1" end="D14"/>
+<mapRoad id="25"  start="D1" end="D6"/>
+<mapRoad id="26"  start="D1" end="D8"/>
+<mapRoad id="27"  start="D11" end="D13"/>
+<mapRoad id="28"  start="D12" end="D14"/>
+<mapRoad id="29"  start="D2" end="D11"/>
+<mapRoad id="30"  start="D2" end="D12"/>
+<mapRoad id="31"  start="D2" end="D13"/>
+<mapRoad id="32"  start="D2" end="D3"/>
+<mapRoad id="33"  start="D2" end="D5"/>
+<mapRoad id="34"  start="D2" end="D9"/>
+<mapRoad id="35"  start="D3" end="D12"/>
+<mapRoad id="36"  start="D3" end="D13"/>
+<mapRoad id="37"  start="D3" end="D6"/>
+<mapRoad id="38"  start="D4" end="D10"/>
+<mapRoad id="39"  start="D4" end="D6"/>
+<mapRoad id="40"  start="D4" end="D7"/>
+<mapRoad id="41"  start="D4" end="D8"/>
+<mapRoad id="42"  start="D5" end="D12"/>
+<mapRoad id="43"  start="D5" end="D14"/>
+<mapRoad id="44"  start="D5" end="D9"/>
+<mapRoad id="45"  start="D6" end="D12"/>
+<mapRoad id="46"  start="D6" end="D8"/>
+<mapRoad id="47"  start="D7" end="D11"/>
+<mapRoad id="48"  start="D7" end="D9"/>
+<mapRoad id="49"  start="D8" end="D10"/>
+<mapRoad id="50"  start="D8" end="D14"/>
+<mapRoad id="51"  start="D9" end="D11"/>
+<createCity id="52" name="C1" x="3115" y="2318" radius="0" color="black"/>
+<createCity id="53" name="C2" x="823" y="7478" radius="0" color="black"/>
+<createCity id="54" name="C3" x="55" y="5364" radius="0" color="black"/>
+<createCity id="55" name="C4" x="859" y="738" radius="0" color="black"/>
+<createCity id="56" name="C5" x="6768" y="846" radius="0" color="black"/>
+<createCity id="57" name="C6" x="8047" y="4556" radius="0" color="black"/>
+<createCity id="58" name="C7" x="4682" y="3652" radius="0" color="black"/>
+<createCity id="59" name="C8" x="6108" y="7684" radius="0" color="black"/>
+<createCity id="60" name="C9" x="8179" y="6792" radius="0" color="black"/>
+<createCity id="61" name="C10" x="4789" y="2350" radius="0" color="black"/>
+<createCity id="62" name="C11" x="5401" y="3971" radius="0" color="black"/>
+<createCity id="63" name="C12" x="1302" y="1734" radius="0" color="black"/>
+<createCity id="64" name="C13" x="3292" y="7883" radius="0" color="black"/>
+<createCity id="65" name="C14" x="2455" y="5699" radius="0" color="black"/>
+<createCity id="66" name="C15" x="7000" y="2605" radius="0" color="black"/>
+<mapCity id="67" name="C1"/>
+<mapCity id="68" name="C2"/>
+<mapCity id="69" name="C3"/>
+<mapCity id="70" name="C4"/>
+<mapCity id="71" name="C5"/>
+<mapCity id="72" name="C6"/>
+<mapCity id="73" name="C7"/>
+<mapCity id="74" name="C8"/>
+<mapCity id="75" name="C9"/>
+<mapCity id="76" name="C10"/>
+<mapCity id="77" name="C11"/>
+<mapCity id="78" name="C12"/>
+<mapCity id="79" name="C13"/>
+<mapCity id="80" name="C14"/>
+<mapCity id="81" name="C15"/>
+
+<shortestPath id="82"  start="D4" end="D12"/>
+</commands>

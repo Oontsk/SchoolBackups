@@ -1,0 +1,26 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+	spatialWidth="8192" spatialHeight="8192" pmOrder="3">
+ <createCity id="1"  name="A1" x="1" y="94" radius="0" color="black"/>
+ <createCity id="2"  name="A4" x="4" y="476" radius="0" color="black"/>
+ <createCity id="3"  name="A7" x="7" y="205" radius="0" color="black"/>
+ <createCity id="4"  name="A10" x="10" y="233" radius="0" color="black"/>
+ <createCity id="5"  name="A13" x="13" y="1013" radius="0" color="black"/>
+ <createCity id="6"  name="A16" x="16" y="554" radius="0" color="black"/>
+ <createCity id="7"  name="A19" x="19" y="534" radius="0" color="black"/>
+ <createCity id="8"  name="A22" x="22" y="991" radius="0" color="black"/>
+ <createCity id="9"  name="A25" x="25" y="222" radius="0" color="black"/>
+ <mapRoad id="10"  start="A1" end="A4"/>
+ <mapRoad id="11"  start="A4" end="A7"/>
+ <mapRoad id="12"  start="A7" end="A10"/>
+ <mapRoad id="13"  start="A10" end="A13"/>
+ <mapRoad id="14"  start="A13" end="A16"/>
+ <mapRoad id="15"  start="A16" end="A19"/>
+ <mapRoad id="16"  start="A19" end="A22"/>
+ <mapRoad id="17"  start="A22" end="A25"/>
+ <nearestCity id="18"  x="650" y="178"/>
+ <nearestCity id="19"  x="1238" y="405"/>
+ <nearestCity id="20"  x="638" y="641"/>
+ <nearestCity id="21"  x="434" y="860"/>
+</commands>

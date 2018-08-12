@@ -1,0 +1,42 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+ 	spatialWidth="1024"
+ 	spatialHeight="1024">
+ <createCity name="Edinburgh" y="500" x="100" radius="0" color="red"/>
+ <createCity name="Lisbon" x="100" y="100" radius="0" color="orange"/>
+ <createCity name="London" radius="0" x="150" y="250" color="yellow"/>
+ <createCity name="Prague" x="150" color="green" y="700" radius="0" />
+ <createCity name="Madrid" x="200" y="100" radius="0" color="blue"/>
+ <createCity name="Paris" x="250" y="300" radius="0" color="purple"/>
+ <createCity name="Copenhagen" x="250" y="500" radius="0" color="black"/>
+ <createCity name="Marseilles" x="350" y="100" radius="0" color="red"/>
+ <createCity name="Vienna" x="350" y="700" radius="0" color="orange"/>
+ <createCity name="Amsterdam" x="400" y="300" radius="0" color="yellow"/>
+ <createCity name="Munich" x="400" y="200" radius="0" color="green"/>
+ <createCity name="Milan" x="500" y="50" radius="0" color="blue"/>
+ <createCity name="Rome" x="500" y="450" radius="0" color="purple"/>
+ <createCity name="Naples" x="450" y="650" radius="0" color="black"/>
+ <createCity name="Varna" x="100" y="800" radius="0" color="red"/>
+ <createCity name="Geneva" x="300" y="200" radius="0" color="orange"/>
+
+ <mapCity name="Edinburgh"/>
+ <mapCity name="Lisbon"/>
+ <mapCity name="London"/>
+ <mapCity name="Prague"/>
+ <mapCity name="Madrid"/>
+ <mapCity name="Paris"/>
+ <mapCity name="Copenhagen"/>
+ <mapCity name="Marseilles"/>
+ <mapCity name="Vienna"/>
+ <mapCity name="Amsterdam"/>
+ <mapCity name="Munich"/>
+ <mapCity name="Milan"/>
+ <mapCity name="Rome"/>
+ <mapCity name="Naples"/>
+ <mapCity name="Varna"/>
+ <mapCity name="Geneva"/>
+
+ <rangeCities x="512" y="512" radius="0" saveMap="part1.rangeCities.saveMap.output.pic1"/>
+ <rangeCities x="300" y="200" radius="0" saveMap="part1.rangeCities.saveMap.output.pic2"/>
+</commands>

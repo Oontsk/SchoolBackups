@@ -1,0 +1,71 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+spatialWidth="4096" spatialHeight="4096" pmOrder="3">
+<createCity id="1"  name="D0" x="3524" y="1547" radius="0" color="black"/>
+<createCity id="2"  name="D1" x="773" y="2619" radius="0" color="black"/>
+<createCity id="3"  name="D2" x="1307" y="3198" radius="0" color="black"/>
+<createCity id="4"  name="D3" x="3567" y="937" radius="0" color="black"/>
+<createCity id="5"  name="D4" x="1200" y="3901" radius="0" color="black"/>
+<createCity id="6"  name="D5" x="1146" y="1620" radius="0" color="black"/>
+<createCity id="7"  name="D6" x="1676" y="785" radius="0" color="black"/>
+<createCity id="8"  name="D7" x="495" y="2345" radius="0" color="black"/>
+<createCity id="9"  name="D8" x="663" y="56" radius="0" color="black"/>
+<createCity id="10"  name="D9" x="3979" y="1642" radius="0" color="black"/>
+<createCity id="11" name="C1" x="362" y="3280" radius="0" color="black"/>
+<createCity id="12" name="C2" x="3579" y="3738" radius="0" color="black"/>
+<createCity id="13" name="C3" x="698" y="234" radius="0" color="black"/>
+<createCity id="14" name="C4" x="3487" y="628" radius="0" color="black"/>
+<createCity id="15" name="C5" x="973" y="2745" radius="0" color="black"/>
+<createCity id="16" name="C6" x="3049" y="2813" radius="0" color="black"/>
+<createCity id="17" name="C7" x="713" y="767" radius="0" color="black"/>
+<createCity id="18" name="C8" x="2977" y="855" radius="0" color="black"/>
+<createCity id="19" name="C9" x="992" y="2615" radius="0" color="black"/>
+<createCity id="20" name="C10" x="2849" y="2615" radius="0" color="black"/>
+<createCity id="21" name="C11" x="1465" y="1005" radius="0" color="black"/>
+<createCity id="22" name="C12" x="2829" y="1266" radius="0" color="black"/>
+<mapRoad id="23" start="C1" end="C1"/>
+<mapRoad id="24" start="C2" end="C2"/>
+<mapRoad id="25" start="C3" end="C3"/>
+<mapRoad id="26" start="C4" end="C4"/>
+<mapRoad id="27" start="C5" end="C5"/>
+<mapRoad id="28" start="C6" end="C6"/>
+<mapRoad id="29" start="C7" end="C7"/>
+<mapRoad id="30" start="C8" end="C8"/>
+<mapRoad id="31" start="C9" end="C9"/>
+<mapRoad id="32" start="C10" end="C10"/>
+<mapRoad id="33" start="C11" end="C11"/>
+<mapRoad id="34" start="C12" end="C12"/>
+<mapRoad id="35"  start="D0" end="D2"/>
+<mapRoad id="36"  start="D0" end="D3"/>
+<mapRoad id="37"  start="D0" end="D5"/>
+<mapRoad id="38"  start="D0" end="D6"/>
+<mapRoad id="39"  start="D0" end="D9"/>
+<mapRoad id="40"  start="D1" end="D2"/>
+<mapRoad id="41"  start="D1" end="D4"/>
+<mapRoad id="42"  start="D1" end="D5"/>
+<mapRoad id="43"  start="D1" end="D7"/>
+<mapRoad id="44"  start="D2" end="D4"/>
+<mapRoad id="45"  start="D2" end="D5"/>
+<mapRoad id="46"  start="D2" end="D9"/>
+<mapRoad id="47"  start="D3" end="D6"/>
+<mapRoad id="48"  start="D3" end="D8"/>
+<mapRoad id="49"  start="D3" end="D9"/>
+<mapRoad id="50"  start="D4" end="D7"/>
+<mapRoad id="51"  start="D4" end="D9"/>
+<mapRoad id="52"  start="D5" end="D6"/>
+<mapRoad id="53"  start="D5" end="D7"/>
+<mapRoad id="54"  start="D5" end="D8"/>
+<mapRoad id="55"  start="D6" end="D8"/>
+<mapRoad id="56"  start="D7" end="D8"/>
+<nearestRoad id="57" x="3124" y="1597" />
+<nearestRoad id="58" x="723" y="2669" />
+<nearestRoad id="59" x="1507" y="3598"/>
+<nearestRoad id="60" x="3267" y="907"/>
+<nearestRoad id="61" x="1500" y="3801" />
+<nearestRoad id="62" x="1746" y="1120"/>
+<nearestRoad id="63" x="1976" y="705" />
+<nearestRoad id="64" x="405" y="2305" />
+<nearestRoad id="65" x="623" y="50" />
+<nearestRoad id="66" x="3179" y="1042"/> 
+</commands>

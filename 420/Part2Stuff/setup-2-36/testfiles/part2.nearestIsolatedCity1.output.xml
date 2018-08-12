@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command id="1" name="createCity"/>
+    <parameters>
+      <name value="C1"/>
+      <x value="296"/>
+      <y value="8184"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="2" name="createCity"/>
+    <parameters>
+      <name value="C2"/>
+      <x value="7931"/>
+      <y value="7989"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="3" name="createCity"/>
+    <parameters>
+      <name value="C3"/>
+      <x value="600"/>
+      <y value="177"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="4" name="createCity"/>
+    <parameters>
+      <name value="C4"/>
+      <x value="7647"/>
+      <y value="510"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="5" name="createCity"/>
+    <parameters>
+      <name value="C5"/>
+      <x value="1135"/>
+      <y value="7789"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="6" name="createCity"/>
+    <parameters>
+      <name value="C6"/>
+      <x value="7053"/>
+      <y value="7913"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="7" name="createCity"/>
+    <parameters>
+      <name value="C7"/>
+      <x value="800"/>
+      <y value="738"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="8" name="createCity"/>
+    <parameters>
+      <name value="C8"/>
+      <x value="7613"/>
+      <y value="817"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="9" name="createCity"/>
+    <parameters>
+      <name value="C9"/>
+      <x value="1639"/>
+      <y value="7377"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="10" name="createCity"/>
+    <parameters>
+      <name value="C10"/>
+      <x value="6682"/>
+      <y value="7522"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="11" name="createCity"/>
+    <parameters>
+      <name value="C11"/>
+      <x value="1447"/>
+      <y value="1393"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="12" name="createCity"/>
+    <parameters>
+      <name value="C12"/>
+      <x value="6935"/>
+      <y value="914"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="13" name="createCity"/>
+    <parameters>
+      <name value="C13"/>
+      <x value="2003"/>
+      <y value="7272"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="14" name="createCity"/>
+    <parameters>
+      <name value="C14"/>
+      <x value="6538"/>
+      <y value="7286"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="15" name="createCity"/>
+    <parameters>
+      <name value="C15"/>
+      <x value="1915"/>
+      <y value="1639"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="16" name="createCity"/>
+    <parameters>
+      <name value="C16"/>
+      <x value="6505"/>
+      <y value="1538"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="17" name="createCity"/>
+    <parameters>
+      <name value="C17"/>
+      <x value="2235"/>
+      <y value="7156"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="18" name="createCity"/>
+    <parameters>
+      <name value="C18"/>
+      <x value="6430"/>
+      <y value="7055"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="19" name="createCity"/>
+    <parameters>
+      <name value="C19"/>
+      <x value="2530"/>
+      <y value="1683"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="20" name="createCity"/>
+    <parameters>
+      <name value="C20"/>
+      <x value="6059"/>
+      <y value="2107"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="21" name="createCity"/>
+    <parameters>
+      <name value="C21"/>
+      <x value="3000"/>
+      <y value="6709"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="22" name="createCity"/>
+    <parameters>
+      <name value="C22"/>
+      <x value="5596"/>
+      <y value="6719"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="23" name="createCity"/>
+    <parameters>
+      <name value="C23"/>
+      <x value="2992"/>
+      <y value="2630"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="24" name="createCity"/>
+    <parameters>
+      <name value="C24"/>
+      <x value="5849"/>
+      <y value="2524"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="25" name="createCity"/>
+    <parameters>
+      <name value="C25"/>
+      <x value="3536"/>
+      <y value="6510"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="26" name="createCity"/>
+    <parameters>
+      <name value="C26"/>
+      <x value="5584"/>
+      <y value="6491"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="27" name="createCity"/>
+    <parameters>
+      <name value="C27"/>
+      <x value="3293"/>
+      <y value="2753"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="28" name="createCity"/>
+    <parameters>
+      <name value="C28"/>
+      <x value="5035"/>
+      <y value="2831"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="29" name="createCity"/>
+    <parameters>
+      <name value="C29"/>
+      <x value="3589"/>
+      <y value="5908"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="30" name="createCity"/>
+    <parameters>
+      <name value="C30"/>
+      <x value="4949"/>
+      <y value="5943"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="31" name="createCity"/>
+    <parameters>
+      <name value="C31"/>
+      <x value="3980"/>
+      <y value="3358"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="32" name="createCity"/>
+    <parameters>
+      <name value="C32"/>
+      <x value="4436"/>
+      <y value="3013"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="33" name="mapRoad"/>
+    <parameters>
+      <start value="C4"/>
+      <end value="C3"/>
+    </parameters>
+    <output>
+      <roadCreated end="C3" start="C4"/>
+    </output>
+  </success>
+  <success>
+    <command id="34" name="mapRoad"/>
+    <parameters>
+      <start value="C6"/>
+      <end value="C8"/>
+    </parameters>
+    <output>
+      <roadCreated end="C8" start="C6"/>
+    </output>
+  </success>
+  <success>
+    <command id="35" name="mapRoad"/>
+    <parameters>
+      <start value="C4"/>
+      <end value="C8"/>
+    </parameters>
+    <output>
+      <roadCreated end="C8" start="C4"/>
+    </output>
+  </success>
+  <success>
+    <command id="36" name="mapRoad"/>
+    <parameters>
+      <start value="C12"/>
+      <end value="C11"/>
+    </parameters>
+    <output>
+      <roadCreated end="C11" start="C12"/>
+    </output>
+  </success>
+  <success>
+    <command id="37" name="mapRoad"/>
+    <parameters>
+      <start value="C8"/>
+      <end value="C12"/>
+    </parameters>
+    <output>
+      <roadCreated end="C12" start="C8"/>
+    </output>
+  </success>
+  <success>
+    <command id="38" name="mapRoad"/>
+    <parameters>
+      <start value="C14"/>
+      <end value="C16"/>
+    </parameters>
+    <output>
+      <roadCreated end="C16" start="C14"/>
+    </output>
+  </success>
+  <success>
+    <command id="39" name="mapRoad"/>
+    <parameters>
+      <start value="C12"/>
+      <end value="C16"/>
+    </parameters>
+    <output>
+      <roadCreated end="C16" start="C12"/>
+    </output>
+  </success>
+  <success>
+    <command id="40" name="mapRoad"/>
+    <parameters>
+      <start value="C21"/>
+      <end value="C22"/>
+    </parameters>
+    <output>
+      <roadCreated end="C22" start="C21"/>
+    </output>
+  </success>
+  <success>
+    <command id="41" name="mapRoad"/>
+    <parameters>
+      <start value="C22"/>
+      <end value="C24"/>
+    </parameters>
+    <output>
+      <roadCreated end="C24" start="C22"/>
+    </output>
+  </success>
+  <success>
+    <command id="42" name="mapRoad"/>
+    <parameters>
+      <start value="C25"/>
+      <end value="C26"/>
+    </parameters>
+    <output>
+      <roadCreated end="C26" start="C25"/>
+    </output>
+  </success>
+  <success>
+    <command id="43" name="mapRoad"/>
+    <parameters>
+      <start value="C21"/>
+      <end value="C25"/>
+    </parameters>
+    <output>
+      <roadCreated end="C25" start="C21"/>
+    </output>
+  </success>
+  <success>
+    <command id="44" name="mapRoad"/>
+    <parameters>
+      <start value="C22"/>
+      <end value="C26"/>
+    </parameters>
+    <output>
+      <roadCreated end="C26" start="C22"/>
+    </output>
+  </success>
+  <success>
+    <command id="45" name="mapRoad"/>
+    <parameters>
+      <start value="C29"/>
+      <end value="C30"/>
+    </parameters>
+    <output>
+      <roadCreated end="C30" start="C29"/>
+    </output>
+  </success>
+  <success>
+    <command id="46" name="mapRoad"/>
+    <parameters>
+      <start value="C31"/>
+      <end value="C29"/>
+    </parameters>
+    <output>
+      <roadCreated end="C29" start="C31"/>
+    </output>
+  </success>
+  <success>
+    <command id="47" name="mapRoad"/>
+    <parameters>
+      <start value="C25"/>
+      <end value="C29"/>
+    </parameters>
+    <output>
+      <roadCreated end="C29" start="C25"/>
+    </output>
+  </success>
+  <success>
+    <command id="48" name="mapRoad"/>
+    <parameters>
+      <start value="C26"/>
+      <end value="C30"/>
+    </parameters>
+    <output>
+      <roadCreated end="C30" start="C26"/>
+    </output>
+  </success>
+  <error type="startEqualsEnd">
+    <command id="49" name="mapRoad"/>
+    <parameters>
+      <start value="C1"/>
+      <end value="C1"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="50" name="mapRoad"/>
+    <parameters>
+      <start value="C2"/>
+      <end value="C2"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="51" name="mapRoad"/>
+    <parameters>
+      <start value="C5"/>
+      <end value="C5"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="52" name="mapRoad"/>
+    <parameters>
+      <start value="C7"/>
+      <end value="C7"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="53" name="mapRoad"/>
+    <parameters>
+      <start value="C9"/>
+      <end value="C9"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="54" name="mapRoad"/>
+    <parameters>
+      <start value="C10"/>
+      <end value="C10"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="55" name="mapRoad"/>
+    <parameters>
+      <start value="C13"/>
+      <end value="C13"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="56" name="mapRoad"/>
+    <parameters>
+      <start value="C15"/>
+      <end value="C15"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="57" name="mapRoad"/>
+    <parameters>
+      <start value="C17"/>
+      <end value="C17"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="58" name="mapRoad"/>
+    <parameters>
+      <start value="C18"/>
+      <end value="C18"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="59" name="mapRoad"/>
+    <parameters>
+      <start value="C20"/>
+      <end value="C20"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="60" name="mapRoad"/>
+    <parameters>
+      <start value="C23"/>
+      <end value="C23"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="61" name="mapRoad"/>
+    <parameters>
+      <start value="C27"/>
+      <end value="C27"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="62" name="mapRoad"/>
+    <parameters>
+      <start value="C28"/>
+      <end value="C28"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="63" name="mapRoad"/>
+    <parameters>
+      <start value="C32"/>
+      <end value="C32"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="64" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="3028"/>
+      <y value="6324"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="65" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="5732"/>
+      <y value="6710"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="66" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="7527"/>
+      <y value="8107"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="67" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="7375"/>
+      <y value="7318"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="68" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="830"/>
+      <y value="2576"/>
+    </parameters>
+  </error>
+  <error type="cityNotFound">
+    <command id="69" name="nearestIsolatedCity"/>
+    <parameters>
+      <x value="6577"/>
+      <y value="2027"/>
+    </parameters>
+  </error>
+</results>

@@ -1,0 +1,40 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part2in.xsd"
+	spatialWidth="128" spatialHeight="128" pmOrder="3">
+ <createCity id="1"  name="A1" x="1" y="1" radius="0" color="black"/>
+ <createCity id="2"  name="A2" x="100" y="1" radius="0" color="black"/>
+ <createCity id="3"  name="A3" x="100" y="100" radius="0" color="black"/>
+ <createCity id="4"  name="A4" x="10" y="100" radius="0" color="black"/>
+ <createCity id="5"  name="A5" x="10" y="10" radius="0" color="black"/>
+ <createCity id="6"  name="A6" x="90" y="10" radius="0" color="black"/>
+ <createCity id="7"  name="A7" x="90" y="70" radius="0" color="black"/>
+ <createCity id="8"  name="A8" x="30" y="70" radius="0" color="black"/>
+ <createCity id="9"  name="A9" x="30" y="30" radius="0" color="black"/>
+ <createCity id="10"  name="A10" x="50" y="30" radius="0" color="black"/>
+ <mapRoad id="11"  start="A1" end="A2"/>
+ <mapRoad id="12"  start="A2" end="A3"/>
+ <mapRoad id="13"  start="A3" end="A4"/>
+ <mapRoad id="14"  start="A4" end="A5"/>
+ <mapRoad id="15"  start="A5" end="A6"/>
+ <mapRoad id="16"  start="A6" end="A7"/>
+ <mapRoad id="17"  start="A7" end="A8"/>
+ <mapRoad id="18"  start="A8" end="A9"/>
+ <mapRoad id="19"  start="A9" end="A10"/>
+ <printPMQuadtree id="20"  />
+ <mapRoad id="21"  start="A1" end="A4"/>
+ <mapRoad id="22"  start="A1" end="A5"/>
+ <mapRoad id="23"  start="A1" end="A6"/>
+ <mapRoad id="24"  start="A2" end="A6"/>
+ <mapRoad id="25"  start="A2" end="A7"/>
+ <mapRoad id="26"  start="A3" end="A7"/>
+ <mapRoad id="27"  start="A3" end="A8"/>
+ <mapRoad id="28"  start="A4" end="A8"/>
+ <mapRoad id="29"  start="A4" end="A9"/>
+ <mapRoad id="30"  start="A5" end="A9"/>
+ <mapRoad id="31"  start="A5" end="A10"/>
+ <mapRoad id="32"  start="A6" end="A10"/>
+ <mapRoad id="33"  start="A7" end="A10"/>
+ <mapRoad id="34"  start="A8" end="A10"/>
+ <printPMQuadtree id="35"  />
+</commands>

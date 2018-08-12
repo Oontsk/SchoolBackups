@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command id="1" name="createCity"/>
+    <parameters>
+      <name value="D0"/>
+      <x value="3524"/>
+      <y value="1547"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="2" name="createCity"/>
+    <parameters>
+      <name value="D1"/>
+      <x value="773"/>
+      <y value="2619"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="3" name="createCity"/>
+    <parameters>
+      <name value="D2"/>
+      <x value="1307"/>
+      <y value="3198"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="4" name="createCity"/>
+    <parameters>
+      <name value="D3"/>
+      <x value="3567"/>
+      <y value="937"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="5" name="createCity"/>
+    <parameters>
+      <name value="D4"/>
+      <x value="1200"/>
+      <y value="3901"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="6" name="createCity"/>
+    <parameters>
+      <name value="D5"/>
+      <x value="1146"/>
+      <y value="1620"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="7" name="createCity"/>
+    <parameters>
+      <name value="D6"/>
+      <x value="1676"/>
+      <y value="785"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="8" name="createCity"/>
+    <parameters>
+      <name value="D7"/>
+      <x value="495"/>
+      <y value="2345"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="9" name="createCity"/>
+    <parameters>
+      <name value="D8"/>
+      <x value="663"/>
+      <y value="56"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="10" name="createCity"/>
+    <parameters>
+      <name value="D9"/>
+      <x value="3979"/>
+      <y value="1642"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="11" name="createCity"/>
+    <parameters>
+      <name value="C1"/>
+      <x value="362"/>
+      <y value="3280"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="12" name="createCity"/>
+    <parameters>
+      <name value="C2"/>
+      <x value="3579"/>
+      <y value="3738"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="13" name="createCity"/>
+    <parameters>
+      <name value="C3"/>
+      <x value="698"/>
+      <y value="234"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="14" name="createCity"/>
+    <parameters>
+      <name value="C4"/>
+      <x value="3487"/>
+      <y value="628"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="15" name="createCity"/>
+    <parameters>
+      <name value="C5"/>
+      <x value="973"/>
+      <y value="2745"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="16" name="createCity"/>
+    <parameters>
+      <name value="C6"/>
+      <x value="3049"/>
+      <y value="2813"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="17" name="createCity"/>
+    <parameters>
+      <name value="C7"/>
+      <x value="713"/>
+      <y value="767"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="18" name="createCity"/>
+    <parameters>
+      <name value="C8"/>
+      <x value="2977"/>
+      <y value="855"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="19" name="createCity"/>
+    <parameters>
+      <name value="C9"/>
+      <x value="992"/>
+      <y value="2615"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="20" name="createCity"/>
+    <parameters>
+      <name value="C10"/>
+      <x value="2849"/>
+      <y value="2615"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="21" name="createCity"/>
+    <parameters>
+      <name value="C11"/>
+      <x value="1465"/>
+      <y value="1005"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command id="22" name="createCity"/>
+    <parameters>
+      <name value="C12"/>
+      <x value="2829"/>
+      <y value="1266"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <error type="startEqualsEnd">
+    <command id="23" name="mapRoad"/>
+    <parameters>
+      <start value="C1"/>
+      <end value="C1"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="24" name="mapRoad"/>
+    <parameters>
+      <start value="C2"/>
+      <end value="C2"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="25" name="mapRoad"/>
+    <parameters>
+      <start value="C3"/>
+      <end value="C3"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="26" name="mapRoad"/>
+    <parameters>
+      <start value="C4"/>
+      <end value="C4"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="27" name="mapRoad"/>
+    <parameters>
+      <start value="C5"/>
+      <end value="C5"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="28" name="mapRoad"/>
+    <parameters>
+      <start value="C6"/>
+      <end value="C6"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="29" name="mapRoad"/>
+    <parameters>
+      <start value="C7"/>
+      <end value="C7"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="30" name="mapRoad"/>
+    <parameters>
+      <start value="C8"/>
+      <end value="C8"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="31" name="mapRoad"/>
+    <parameters>
+      <start value="C9"/>
+      <end value="C9"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="32" name="mapRoad"/>
+    <parameters>
+      <start value="C10"/>
+      <end value="C10"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="33" name="mapRoad"/>
+    <parameters>
+      <start value="C11"/>
+      <end value="C11"/>
+    </parameters>
+  </error>
+  <error type="startEqualsEnd">
+    <command id="34" name="mapRoad"/>
+    <parameters>
+      <start value="C12"/>
+      <end value="C12"/>
+    </parameters>
+  </error>
+  <success>
+    <command id="35" name="mapRoad"/>
+    <parameters>
+      <start value="D0"/>
+      <end value="D2"/>
+    </parameters>
+    <output>
+      <roadCreated end="D2" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="36" name="mapRoad"/>
+    <parameters>
+      <start value="D0"/>
+      <end value="D3"/>
+    </parameters>
+    <output>
+      <roadCreated end="D3" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="37" name="mapRoad"/>
+    <parameters>
+      <start value="D0"/>
+      <end value="D5"/>
+    </parameters>
+    <output>
+      <roadCreated end="D5" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="38" name="mapRoad"/>
+    <parameters>
+      <start value="D0"/>
+      <end value="D6"/>
+    </parameters>
+    <output>
+      <roadCreated end="D6" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="39" name="mapRoad"/>
+    <parameters>
+      <start value="D0"/>
+      <end value="D9"/>
+    </parameters>
+    <output>
+      <roadCreated end="D9" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="40" name="mapRoad"/>
+    <parameters>
+      <start value="D1"/>
+      <end value="D2"/>
+    </parameters>
+    <output>
+      <roadCreated end="D2" start="D1"/>
+    </output>
+  </success>
+  <success>
+    <command id="41" name="mapRoad"/>
+    <parameters>
+      <start value="D1"/>
+      <end value="D4"/>
+    </parameters>
+    <output>
+      <roadCreated end="D4" start="D1"/>
+    </output>
+  </success>
+  <success>
+    <command id="42" name="mapRoad"/>
+    <parameters>
+      <start value="D1"/>
+      <end value="D5"/>
+    </parameters>
+    <output>
+      <roadCreated end="D5" start="D1"/>
+    </output>
+  </success>
+  <success>
+    <command id="43" name="mapRoad"/>
+    <parameters>
+      <start value="D1"/>
+      <end value="D7"/>
+    </parameters>
+    <output>
+      <roadCreated end="D7" start="D1"/>
+    </output>
+  </success>
+  <success>
+    <command id="44" name="mapRoad"/>
+    <parameters>
+      <start value="D2"/>
+      <end value="D4"/>
+    </parameters>
+    <output>
+      <roadCreated end="D4" start="D2"/>
+    </output>
+  </success>
+  <success>
+    <command id="45" name="mapRoad"/>
+    <parameters>
+      <start value="D2"/>
+      <end value="D5"/>
+    </parameters>
+    <output>
+      <roadCreated end="D5" start="D2"/>
+    </output>
+  </success>
+  <success>
+    <command id="46" name="mapRoad"/>
+    <parameters>
+      <start value="D2"/>
+      <end value="D9"/>
+    </parameters>
+    <output>
+      <roadCreated end="D9" start="D2"/>
+    </output>
+  </success>
+  <success>
+    <command id="47" name="mapRoad"/>
+    <parameters>
+      <start value="D3"/>
+      <end value="D6"/>
+    </parameters>
+    <output>
+      <roadCreated end="D6" start="D3"/>
+    </output>
+  </success>
+  <success>
+    <command id="48" name="mapRoad"/>
+    <parameters>
+      <start value="D3"/>
+      <end value="D8"/>
+    </parameters>
+    <output>
+      <roadCreated end="D8" start="D3"/>
+    </output>
+  </success>
+  <success>
+    <command id="49" name="mapRoad"/>
+    <parameters>
+      <start value="D3"/>
+      <end value="D9"/>
+    </parameters>
+    <output>
+      <roadCreated end="D9" start="D3"/>
+    </output>
+  </success>
+  <success>
+    <command id="50" name="mapRoad"/>
+    <parameters>
+      <start value="D4"/>
+      <end value="D7"/>
+    </parameters>
+    <output>
+      <roadCreated end="D7" start="D4"/>
+    </output>
+  </success>
+  <success>
+    <command id="51" name="mapRoad"/>
+    <parameters>
+      <start value="D4"/>
+      <end value="D9"/>
+    </parameters>
+    <output>
+      <roadCreated end="D9" start="D4"/>
+    </output>
+  </success>
+  <success>
+    <command id="52" name="mapRoad"/>
+    <parameters>
+      <start value="D5"/>
+      <end value="D6"/>
+    </parameters>
+    <output>
+      <roadCreated end="D6" start="D5"/>
+    </output>
+  </success>
+  <success>
+    <command id="53" name="mapRoad"/>
+    <parameters>
+      <start value="D5"/>
+      <end value="D7"/>
+    </parameters>
+    <output>
+      <roadCreated end="D7" start="D5"/>
+    </output>
+  </success>
+  <success>
+    <command id="54" name="mapRoad"/>
+    <parameters>
+      <start value="D5"/>
+      <end value="D8"/>
+    </parameters>
+    <output>
+      <roadCreated end="D8" start="D5"/>
+    </output>
+  </success>
+  <success>
+    <command id="55" name="mapRoad"/>
+    <parameters>
+      <start value="D6"/>
+      <end value="D8"/>
+    </parameters>
+    <output>
+      <roadCreated end="D8" start="D6"/>
+    </output>
+  </success>
+  <success>
+    <command id="56" name="mapRoad"/>
+    <parameters>
+      <start value="D7"/>
+      <end value="D8"/>
+    </parameters>
+    <output>
+      <roadCreated end="D8" start="D7"/>
+    </output>
+  </success>
+  <success>
+    <command id="57" name="nearestRoad"/>
+    <parameters>
+      <x value="3124"/>
+      <y value="1597"/>
+    </parameters>
+    <output>
+      <road end="D5" start="D0"/>
+    </output>
+  </success>
+  <success>
+    <command id="58" name="nearestRoad"/>
+    <parameters>
+      <x value="723"/>
+      <y value="2669"/>
+    </parameters>
+    <output>
+      <road end="D4" start="D1"/>
+    </output>
+  </success>
+  <success>
+    <command id="59" name="nearestRoad"/>
+    <parameters>
+      <x value="1507"/>
+      <y value="3598"/>
+    </parameters>
+    <output>
+      <road end="D9" start="D4"/>
+    </output>
+  </success>
+  <success>
+    <command id="60" name="nearestRoad"/>
+    <parameters>
+      <x value="3267"/>
+      <y value="907"/>
+    </parameters>
+    <output>
+      <road end="D6" start="D3"/>
+    </output>
+  </success>
+  <success>
+    <command id="61" name="nearestRoad"/>
+    <parameters>
+      <x value="1500"/>
+      <y value="3801"/>
+    </parameters>
+    <output>
+      <road end="D9" start="D4"/>
+    </output>
+  </success>
+  <success>
+    <command id="62" name="nearestRoad"/>
+    <parameters>
+      <x value="1746"/>
+      <y value="1120"/>
+    </parameters>
+    <output>
+      <road end="D6" start="D5"/>
+    </output>
+  </success>
+  <success>
+    <command id="63" name="nearestRoad"/>
+    <parameters>
+      <x value="1976"/>
+      <y value="705"/>
+    </parameters>
+    <output>
+      <road end="D6" start="D3"/>
+    </output>
+  </success>
+  <success>
+    <command id="64" name="nearestRoad"/>
+    <parameters>
+      <x value="405"/>
+      <y value="2305"/>
+    </parameters>
+    <output>
+      <road end="D8" start="D7"/>
+    </output>
+  </success>
+  <success>
+    <command id="65" name="nearestRoad"/>
+    <parameters>
+      <x value="623"/>
+      <y value="50"/>
+    </parameters>
+    <output>
+      <road end="D8" start="D7"/>
+    </output>
+  </success>
+  <success>
+    <command id="66" name="nearestRoad"/>
+    <parameters>
+      <x value="3179"/>
+      <y value="1042"/>
+    </parameters>
+    <output>
+      <road end="D6" start="D3"/>
+    </output>
+  </success>
+</results>
