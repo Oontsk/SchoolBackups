@@ -29,7 +29,7 @@ public class Dijkstra {
 			} else if (ch > 0) {
 				return 1;
 			} else {
-				return a.getName().compareTo(b.getName());
+				return b.getName().compareTo(a.getName());
 			}
 		}
 	});
